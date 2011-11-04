@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+<head>
+    <title>Праздничное Агенство "Братец Лис" - {{ page.title }}</title>
+<meta http-equiv="Content-Type" content="text/html"/>
+<meta charset="utf-8">
+<script type="text/javascript"> </script>
+<link href="../css/main.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="../css/color.css" rel="stylesheet" type="text/css" media="screen" />
+    <meta name="author" content="Степан Илличевский" />
+    <meta name="copyright" content="Copyright 2011 - Степан Илличевский"/>
+    <link rel="canonical" href="http://bratrtslis.ru{{ page.url }}"/>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26787878-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+</head>
+<body>
+<div id="wrap">
+  <div id="header">
+    <div class="inside">
+	<center>
+    <img src="../img/fire.gif"></img>
+    <img src="../img/sonic.jpg"></img>
+    <img src="../img/fire.gif"></img>
+	</center>
+    </div>
+  </div>
+  <div id="main-body">
+  <div id="content">
+    <div class="inside">
+    {{ content }}
+	</div>
+  </div>
+</div>
+ 
+  <div id="sidebar-2">
+    <div class="inside">
+    {% include sidebar-right.html %}
+    </div>
+  </div>
+  <div id="footer">
+    <div class="inside">
+    {% include footer.html %}
+    </div>
+  </div>
+</div><!--end of wrap-->
+</body>
+</html>

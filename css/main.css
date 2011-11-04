@@ -5,6 +5,7 @@ body {
 	width:80%; /*Хак выравнивания по центру*/
 	margin:0 auto; /*Хак выравнивания по центру*/
 	text-align:left;
+	border:0px;
 }
 #header {
 	text-align:left;
@@ -14,22 +15,16 @@ body {
 }
 #main-body {
 	float:left;
-	width:75%;
+	width:66%;
 }
 #sidebar-2 {
 	float:right;
-	width:25%;
+	width:33%;
 	overflow:hidden;
-	margin-left:-3px;
 }
 #content {
 	float:right;
-	width:66.5%;
-	overflow:hidden;
-}
-#sidebar {
-	float:left;
-	width:33.5%;
+	width:100%;
 	overflow:hidden;
 }
 .inside {
