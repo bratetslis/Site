@@ -18,8 +18,8 @@ body {
 }
 #sidebar-2 {
 	float:right;
+	width:33.5%;
 	overflow:hidden;
-	margin-left:-3px;
 }
 #content {
 	float:right;
