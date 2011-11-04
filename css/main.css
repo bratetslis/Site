@@ -23,12 +23,7 @@ body {
 }
 #content {
 	float:right;
-	width:66.5%;
-	overflow:hidden;
-}
-#sidebar {
-	float:left;
-	width:33.5%;
+	width:100%;
 	overflow:hidden;
 }
 .inside {
