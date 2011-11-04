@@ -1,0 +1,4 @@
+pygments: true
+lsi: true
+permalink: pretty
+category_dir: cat
