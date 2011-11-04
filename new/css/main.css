@@ -1,0 +1,37 @@
+body {
+	text-align:center; /*Хак выравнивания по центру*/
+}
+#wrap {
+	width:80%; /*Хак выравнивания по центру*/
+	margin:0 auto; /*Хак выравнивания по центру*/
+	text-align:left;
+}
+#header {
+	text-align:left;
+}
+#footer {
+	clear:both;
+}
+#main-body {
+	float:left;
+	width:75%;
+}
+#sidebar-2 {
+	float:right;
+	width:25%;
+	overflow:hidden;
+	margin-left:-3px;
+}
+#content {
+	float:right;
+	width:66.5%;
+	overflow:hidden;
+}
+#sidebar {
+	float:left;
+	width:33.5%;
+	overflow:hidden;
+}
+.inside {
+	padding:10px;
+}
