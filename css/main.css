@@ -10,6 +10,10 @@ address { font-style: normal; }
 body {
 	text-align:center; /*Oae au?aaieaaiey ii oaio?o*/
 }
+html { background: transparent url('../img/webx-bkg.png') repeat-x; 
+margin: 0; 
+padding: 0; 
+}
 #wrap {
 	width:80%; /*Oae au?aaieaaiey ii oaio?o*/
 	margin:0 auto; /*Oae au?aaieaaiey ii oaio?o*/
