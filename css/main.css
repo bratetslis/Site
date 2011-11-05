@@ -8,13 +8,12 @@ a img, :link img, :visited img { border: none; }
 address { font-style: normal; }
 
 body {
-	text-align:center; /*Хак выравнивания по центру*/
+	text-align:center; /*Oae au?aaieaaiey ii oaio?o*/
 }
 #wrap {
-	width:80%; /*Хак выравнивания по центру*/
-	margin:0 auto; /*Хак выравнивания по центру*/
+	width:80%; /*Oae au?aaieaaiey ii oaio?o*/
+	margin:0 auto; /*Oae au?aaieaaiey ii oaio?o*/
 	text-align:left;
-	border:0px;
 }
 #header {
 	text-align:left;
@@ -24,16 +23,22 @@ body {
 }
 #main-body {
 	float:left;
-	width:66%;
+	width:75%;
 }
 #sidebar-2 {
 	float:right;
-	width:33%;
+	width:25%;
 	overflow:hidden;
+	margin-left:-3px;
 }
 #content {
 	float:right;
-	width:100%;
+	width:66.5%;
+	overflow:hidden;
+}
+#sidebar {
+	float:left;
+	width:33.5%;
 	overflow:hidden;
 }
 .inside {
