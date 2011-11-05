@@ -1,0 +1,28 @@
+
+/* Layout Stylesheet */ 
+
+body {
+ font-family:verdana, sans-serif; 
+ font-size:12px;  
+ background: #808080;
+ color: #333333;
+ margin: 20px;
+ border:0;
+ }
+  
+#main {
+ border: 2px solid #000000; 
+ background: #ffffff;
+ color: #333333;
+ height:80%;
+ }
+
+#nest {
+ float: left; 
+ width: 240px; 
+ border: dashed #666666; 
+ border-width: 0 2px 2px 0; 
+ background: #c0c0c0;
+ color: #333333;
+ margin: 0 20px 20px 0;
+ }
