@@ -1,4 +1,9 @@
 ﻿<a href="../testingpage">Link1</a></br>
 <a href="../testingpage">Link2</a></br>
 <a href="../testingpage">Link3</a></br> 	   
-<a href="../testingpage">Link4</a></br>   
+<a href="../testingpage">Link4</a></br>
+<li {% if page.nav == 'index' %} class="selected"{% endif %}><a href="../testpage3">Index</a></li>
+<li {% if page.nav == 'element' %} class="selected"{% endif %}><a href="element.html">Element</a></li>
+<li {% if page.nav == 'grid' %} class="selected"{% endif %}><a href="grid.html">Grids</a></li>
+<li {% if page.nav == 'form' %} class="selected"{% endif %}><a href="form.html">Forms</a></li>
+<li {% if page.nav == 'table' %} class="selected"{% endif %}><a href="table.html">Tables</a></li>   
