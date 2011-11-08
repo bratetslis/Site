@@ -1,6 +1,7 @@
 ---
 layout: type3
 title: Главная
+nav: index
 ---
 ### ДОРОГИЕ ДРУЗЬЯ!
 

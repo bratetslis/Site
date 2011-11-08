@@ -121,42 +121,38 @@ div.sexy-bookmarks ul.socials a:hover{background-color:transparent !important}
 		<ul class="borderbottom">
 			<li>Navigation</li>
 			<li><a href="{{ site.url }}{{ page.url }}" class="selected">Menu 1 offen</a>
-			<ul>
-			<li><a href="{{ site.url }}{{ page.url }}">Link1</a></li>
-			<li><a href="{{ site.url }}{{ page.url }}">Link2</a></li>
-			<li><a href="{{ site.url }}{{ page.url }}" class="selected">Link3</a></li>
-			<li><a href="{{ site.url }}{{ page.url }}">Link4</a></li>
-	<ul>
-        <li {% if page.nav == 'testpage3/' %} class="selected"{% endif %}><a href="{{ site.url }}/testpage3">Index</a></li>
-        <li {% if page.nav == 'element' %} class="selected"{% endif %}><a href="element.html">Element</a></li>
-        <li {% if page.nav == 'grid' %} class="selected"{% endif %}><a href="grid.html">Grids</a></li>
-        <li {% if page.nav == 'form' %} class="selected"{% endif %}><a href="form.html">Forms</a></li>
-        <li {% if page.nav == 'table' %} class="selected"{% endif %}><a href="table.html">Tables</a></li>
-    </ul>
-		   </ul>
-		  </li>
+				<ul>
+					<li {% if page.nav == 'index' %} class="selected"{% endif %}><a href="index.html">Index</a></li>
+					<li {% if page.nav == 'element' %} class="selected"{% endif %}><a href="element.html">Element</a></li>
+					<li {% if page.nav == 'grid' %} class="selected"{% endif %}><a href="grid.html">Grids</a></li>
+					<li {% if page.nav == 'form' %} class="selected"{% endif %}><a href="form.html">Forms</a></li>
+					<li {% if page.nav == 'table' %} class="selected"{% endif %}><a href="table.html">Tables</a></li>
+   
+					<li><a href="{{ site.url }}{{ page.url }}">Link1</a></li>
+					<li><a href="{{ site.url }}{{ page.url }}">Link2</a></li>
+					<li><a href="{{ site.url }}{{ page.url }}">Link3</a></li>
+					<li><a href="{{ site.url }}{{ page.url }}">Link4</a></li>
+				</ul>
+			</li>
 		</ul><br>
-</p>
-
-</div> <!-- end menu left -->
+	</div> <!-- end menu left -->
 	<div id="content">
-{{ content }}</br>
-
+{{ content }}
+</br>
 <div class='sexy-bookmarks sexy-bookmarks-expand sexy-bookmarks-bg-love' style='margin:20px 0 0 0 !important; padding:25px 0 0 10px !important; height:29px;/*the height of the icons (29px)*/ display:block !important; clear:both !important;'>
-<ul class='socials'>
-<li class='sexy-google'><a class="external" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk={{ site.url }}{{ page.url }} &amp;title={{ page.title }}" rel="nofollow" title="Add this to Google Bookmarks">Add this to Google Bookmarks</a></li>
-<li class='sexy-twitter'><a class="external" href="http://twitter.com/home?status=Reading:{{ page.title }} - {{ site.url }}{{ page.url }}" rel="nofollow" title="Tweet This!">Tweet This!</a></li>
-<li class='sexy-facebook'><a class='external' href="http://www.facebook.com/share.php?u={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Facebook'>Share this on Facebook</a></li>
-<li class='sexy-comfeed'><a class="external" href="{{ site.url }}/atom.xml" rel="nofollow" title='Subscribe'>Subscribe</a></li>
-<li class='sexy-linkedin'><a class='external' href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Linkedin'>Share this on Linkedin</a></li>
-<li class="sexy-technorati"><a class="external" href="http://technorati.com/faves?add={{ site.url }}{{ page.url }}&title={{ page.title }}" rel='nofollow' title='Share this on Technorati'>Share this on Technorati</a></li>
-<li class="sexy-vkontakte"><a class="external" href="http://vkontakte.ru/share.php?url={{ site.url }}{{ page.url }}" rel='nofollow' title='Share this on Vkontakte'>Share this on Vkontakte</a></li>
-</ul>
-<div style='clear:both;'/>
+	<ul class='socials'>
+		<li class='sexy-google'><a class="external" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk={{ site.url }}{{ page.url }} &amp;title={{ page.title }}" rel="nofollow" title="Add this to Google Bookmarks">Add this to Google Bookmarks</a></li>
+		<li class='sexy-twitter'><a class="external" href="http://twitter.com/home?status=Reading:{{ page.title }} - {{ site.url }}{{ page.url }}" rel="nofollow" title="Tweet This!">Tweet This!</a></li>
+		<li class='sexy-facebook'><a class='external' href="http://www.facebook.com/share.php?u={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Facebook'>Share this on Facebook</a></li>
+		<li class='sexy-comfeed'><a class="external" href="{{ site.url }}/atom.xml" rel="nofollow" title='Subscribe'>Subscribe</a></li>
+		<li class='sexy-linkedin'><a class='external' href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Linkedin'>Share this on Linkedin</a></li>
+		<li class="sexy-technorati"><a class="external" href="http://technorati.com/faves?add={{ site.url }}{{ page.url }}&title={{ page.title }}" rel='nofollow' title='Share this on Technorati'>Share this on Technorati</a></li>
+		<li class="sexy-vkontakte"><a class="external" href="http://vkontakte.ru/share.php?url={{ site.url }}{{ page.url }}" rel='nofollow' title='Share this on Vkontakte'>Share this on Vkontakte</a></li>
+	</ul>
+	<div style='clear:both;'/>
 </div>
 	</div>
  	<div id="footer">
 	<a href="mailto:still.ru@gmail.com">&copy; by still</a></div>
-
 </div>
 </body></html>
