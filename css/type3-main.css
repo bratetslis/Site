@@ -1,8 +1,5 @@
-/* *** css by miss monorom www.intensivstation.ch *** */
-/* css released under Creative Commons License -  http://creativecommons.org/licenses/by/2.0/deed.en  */
-
 body {
-	background-color: #e1ddd9;
+	background-color: #fff;
 	font-size: 0.8em;
 	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
 	color:#564b47;
@@ -32,14 +29,14 @@ img.download {vertical-align:middle;}
 	width: 70em;
 	margin: 0 auto;
 	padding: 0;
-	background-color: #564b47;
+	background-color: #fff;
 }
 
 /* ----------banner for logo-------------- */
 #banner {
 	margin: 0;
 	padding: 0;
-	background-color: #EBD3E0;
+	background-color: #fff;
 }
 #banner p{
 	margin-left: 20em;
@@ -132,5 +129,5 @@ h2 {
 	background-color: #ffffff;
 	padding: 0;
 	margin: 0;
-	background-color: #E0A3B7;
+	background-color: #fff;
 }
