@@ -1,0 +1,136 @@
+/* *** css by miss monorom www.intensivstation.ch *** */
+/* css released under Creative Commons License -  http://creativecommons.org/licenses/by/2.0/deed.en  */
+
+body {
+	background-color: #e1ddd9;
+	font-size: 0.8em;
+	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+	color:#564b47;
+	padding:0;
+	margin:0;
+}
+a {color: #DB7093;}
+a:visited {color:#DB7093;}
+a:hover {color: #000000;}
+a:active { color:#000000;}
+
+
+h1 {
+	font-size: 2em; 
+	font-weight: normal;
+ }
+
+h2 {
+	font-size: 1.7em;
+	font-weight: normal;
+}
+
+img.download {vertical-align:middle;}
+
+/* ----------container zentriert das layout-------------- */
+#container {
+	width: 70em;
+	margin: 0 auto;
+	padding: 0;
+	background-color: #564b47;
+}
+
+/* ----------banner for logo-------------- */
+#banner {
+	margin: 0;
+	padding: 0;
+	background-color: #EBD3E0;
+}
+#banner p{
+	margin-left: 20em;
+	padding: 25px;
+}
+#mainnavi {
+	margin: 0;
+	padding: 0;
+	background-color: #E0A3B7;
+}
+
+#mainnavi p{
+	margin-left: 20em;
+	padding: 0 25px;
+}
+
+/* -----------------Inhalt--------------------- */
+#content {
+	min-height:600px;
+	background-color: #ffffff;
+	padding: 0;
+	margin: 0 0 0 20em;
+}
+
+p, pre {
+	padding: 0 20px 15px 25px;
+	margin:0;
+}
+pre, code { font-size: 1.2em;}
+
+h1 {
+	padding: 15px 25px;
+	margin:0;
+}
+h2 {
+	padding: 5px 25px;
+	margin:0;
+}
+
+.gross {
+	width: 5.71em;
+	height: 1.07em;}
+
+/* --------------left navigavtion------------- */
+#left {
+	float: left;
+	width: 20em;
+	margin: 0;
+	padding:15px 0 0 0;
+	color:#ffffff;
+}
+#left ul{
+	list-style-type: none ;
+	padding: 0 0 0 25px;
+	margin: 0;
+}
+#left ul.borderbottom{
+	border-bottom:1px solid #ffffff;
+	padding: 0 0 10px 25px;
+}
+
+#left li a {
+	font-size: 1.3em;
+	text-decoration:none; 
+}
+#left  li li a { font-size: 1em; }
+#left li{
+	margin: 0;
+	padding: 0 0 4px 0;
+}
+#left li li{
+	margin: 0;
+	padding: 0 0 3px 0;
+}
+#left li a.selected {
+	margin: 0;
+	padding: 0 0 0 25px;
+	color:#ffffff;
+}
+
+#left li li a.selected {
+	margin: 0;
+	padding: 0;
+}
+
+
+/* -----------footer--------------------------- */
+#footer {
+	clear: left;
+	background-color: #ffffff;
+	padding: 0;
+	margin: 0;
+	background-color: #E0A3B7;
+}

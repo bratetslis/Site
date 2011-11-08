@@ -1,0 +1,161 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=""><head>
+<link type="text/css" href="../css/type3-main.css" rel="stylesheet" media="screen">
+<title>Праздничное Агенство "Братец Лис" - {{ page.title }}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="canonical" href="http://bratrtslis.ru{{ page.url }}"/>
+<!-- jQuary For Sexy Bookmark -->
+<script src="../jquery-latest.js" type="text/javascript"/>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+// xhtml 1.0 strict way of using target _blank
+jQuery('.sexy-bookmarks a.external').attr("target", "_blank");
+// this block sets the auto vertical expand when there are more than
+// one row of bookmarks.
+var sexyBaseHeight=jQuery('.sexy-bookmarks').height();
+var sexyFullHeight=jQuery('.sexy-bookmarks ul.socials').height();
+if (sexyFullHeight>sexyBaseHeight) {
+jQuery('.sexy-bookmarks-expand').hover(
+function() {
+jQuery(this).animate({
+height: sexyFullHeight+'px'
+}, {duration: 400, queue: false});
+},
+function() {
+jQuery(this).animate({
+height: sexyBaseHeight+'px'
+}, {duration: 400, queue: false});
+}
+);
+}
+// autocentering
+if (jQuery('.sexy-bookmarks-center')) {
+var sexyFullWidth=jQuery('.sexy-bookmarks').width();
+var sexyBookmarkWidth=jQuery('.sexy-bookmarks:first ul.socials li').width();
+var sexyBookmarkCount=jQuery('.sexy-bookmarks:first ul.socials li').length;
+var numPerRow=Math.floor(sexyFullWidth/sexyBookmarkWidth);
+var sexyRowWidth=Math.min(numPerRow, sexyBookmarkCount)*sexyBookmarkWidth;
+var sexyLeftMargin=(sexyFullWidth-sexyRowWidth)/2;
+jQuery('.sexy-bookmarks-center').css('margin-left', sexyLeftMargin+'px');
+}
+});
+</script> 
+<!-- CSS For Sexy Bookmark -->
+<style type="text/css">
+div.sexy-bookmarks{margin:20px 0 0 0; border: 0;outline: none;clear:both !important}
+div.sexy-bookmarks-expand{height:29px; overflow:hidden}
+.sexy-bookmarks-bg-sexy, .sexy-bookmarks-bg-love{background-image:url('../img/sexytrans.png') !important; background-repeat:no-repeat}
+div.sexy-bookmarks-bg-love{padding:26px 0 0 10px; background-position:left -1148px !important}
+div.sexy-bookmarks ul.socials{width:100% !important; margin:0 !important; padding:0 !important; float:left}
+div.sexy-bookmarks ul.socials li{display:inline !important; float:left !important; list-style-type:none !important; margin:0 !important; height:29px !important; width:60px !important; cursor:pointer !important; padding:0 !important}
+div.sexy-bookmarks ul.socials li:before, div.sexy-bookmarks ul.socials li:after, div.sexy-bookmarks ul.socials li a:before, div.sexy-bookmarks ul.socials li a:after{content:none !important}
+div.sexy-bookmarks ul.socials a{display:block !important; width:60px !important; height:29px !important; text-indent:-9999px !important; background-color:transparent !important}
+div.sexy-bookmarks ul.socials a:hover{background-color:transparent !important}
+.sexy-digg, .sexy-digg:hover, .sexy-reddit, .sexy-reddit:hover, .sexy-stumbleupon, .sexy-stumbleupon:hover, .sexy-delicious, .sexy-delicious:hover, .sexy-yahoobuzz, .sexy-yahoobuzz:hover, .sexy-blinklist, .sexy-blinklist:hover, .sexy-technorati, .sexy-technorati:hover, .sexy-facebook, .sexy-facebook:hover, .sexy-twitter, .sexy-twitter:hover, .sexy-myspace, .sexy-myspace:hover, .sexy-mixx, .sexy-mixx:hover, .sexy-scriptstyle, .sexy-scriptstyle:hover, .sexy-designfloat, .sexy-designfloat:hover, .sexy-comfeed, .sexy-comfeed:hover, .sexy-newsvine, .sexy-newsvine:hover, .sexy-linkedin, .sexy-linkedin:hover, .sexy-google, .sexy-google:hover, .sexy-friendfeed, .sexy-vkontakte .sexy-friendfeed:hover{background:url('../img/sexyspritenew.png') no-repeat !important;border: 0;outline: none;}
+.sexy-digg{background-position:-980px bottom !important}
+.sexy-digg:hover{background-position:-980px top !important}
+.sexy-reddit{background-position:-700px bottom !important}
+.sexy-reddit:hover{background-position:-700px top !important}
+.sexy-stumbleupon{background-position:-630px bottom !important}
+.sexy-stumbleupon:hover{background-position:-630px top !important}
+.sexy-delicious{background-position:-1190px bottom !important}
+.sexy-delicious:hover{background-position:-1190px top !important}
+.sexy-yahoobuzz{background-position:-1120px bottom !important}
+.sexy-yahoobuzz:hover{background-position:-1120px top !important}
+.sexy-blinklist{background-position:-1260px bottom !important}
+.sexy-blinklist:hover{background-position:-1260px top !important}
+.sexy-technorati{background-position:-560px bottom !important}
+.sexy-technorati:hover{background-position:-560px top !important}
+.sexy-myspace{background-position:-770px bottom !important}
+.sexy-myspace:hover{background-position:-770px top !important}
+.sexy-twitter{background-position:-490px bottom !important}
+.sexy-twitter:hover{background-position:-490px top !important}
+.sexy-facebook{background-position:-1330px bottom !important}
+.sexy-facebook:hover{background-position:-1330px top !important}
+.sexy-mixx{background-position:-840px bottom !important}
+.sexy-mixx:hover{background-position:-840px top !important}
+.sexy-scriptstyle{background-position:-280px bottom !important}
+.sexy-scriptstyle:hover{background-position:-280px top !important}
+.sexy-designfloat{background-position:-1050px bottom !important}
+.sexy-designfloat:hover{background-position:-1050px top !important}
+.sexy-newsvine{background-position:left bottom !important}
+.sexy-newsvine:hover{background-position:left top !important}
+.sexy-google{background-position:-210px bottom !important}
+.sexy-google:hover{background-position:-210px top !important}
+.sexy-comfeed{background-position:-420px bottom !important}
+.sexy-comfeed:hover{background-position:-420px top !important}
+.sexy-linkedin{background-position:-70px bottom !important}
+.sexy-linkedin:hover{background-position:-70px top !important}
+.sexy-friendfeed{background-position:-1750px bottom !important}
+.sexy-friendfeed:hover{background-position:-1750px top !important}
+.sexy-link{ margin-left:25px; float:left}
+.sexy-link A{padding:10px 0; width:470px; text-align:right; border:0; outline:none}
+.sexy-vkontakte{ background-position:-6370px top !important; }
+.sexy-vkontakte:hover{ background-position:-6370px bottom !important; }
+</style>
+<!-- Start Google Analytics -->
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26787878-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+
+</head>
+<body>
+ <!-- Basic template by monorom at www.intensivstation.coh -->
+
+<div id="container">
+	<div id="banner"><p><a href="http://www.intensivstation.ch"><img src="http://www.intensivstation.ch/files/images/monorom_css_logo.gif" alt="" border="0"></a></p>
+</div><!-- end banner -->
+	<div id="mainnavi">
+ 		<p><a href="mailto:lis@bratetslis.ru">Contact</a></p>
+</div><!-- end mainnavi -->
+	<div id="left">
+		<ul class="borderbottom">
+			<li><a href="#">Test Menu</a></li>
+			<li><a href="#" class="selected">Menu 1 offen</a>
+			<ul>
+			<li><a href="#">Submenu 1 offen</a></li>
+			<li><a href="{{ site.url }}{{ page.url }}">CSS Templates</a></li>
+			<li><a href="{{ site.url }}{{ page.url }}" class="selected">Intensivstation</a></li>
+			<li><a href="{{ site.url }}{{ page.url }}">monorom</a></li>
+		   </ul>
+		  </li>
+			<li><a href="http://intensivstation.ch">Intensivstation</a></li>
+			<li><a href="http://monorom.com">monorom</a></li>
+		</ul>
+		<h2>Menue links</h2>
+<p>Menu links hat eine dynamische breite in em. Textabstande sind in Pixel definiert. Die Hintergrundfarbe kommt vom <code>container div</code>.  </p>	
+<p><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fintensivstation.ch%2Ffiles%2Ftemplates%2F2%2Ftemplate-1.html"><img src="http://www.intensivstation.ch/files/images/buttons/xhtml10.gif" alt="" class="gross" border="0"></a><br>
+<a href="http://www.monorom.com"><img src="http://www.intensivstation.ch/files/images/buttons/monorom_button.gif" alt="monorom" class="gross" border="0"></a><br>
+</p>
+
+</div> <!-- end menu left -->
+	<div id="content">
+{{ content }}</br>
+
+<div class='sexy-bookmarks sexy-bookmarks-expand sexy-bookmarks-bg-love' style='margin:20px 0 0 0 !important; padding:25px 0 0 10px !important; height:29px;/*the height of the icons (29px)*/ display:block !important; clear:both !important;'>
+<ul class='socials'>
+<li class='sexy-google'><a class="external" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk={{ site.url }}{{ page.url }} &amp;title={{ page.title }}" rel="nofollow" title="Add this to Google Bookmarks">Add this to Google Bookmarks</a></li>
+<li class='sexy-twitter'><a class="external" href="http://twitter.com/home?status=Reading:{{ page.title }} - {{ site.url }}{{ page.url }}" rel="nofollow" title="Tweet This!">Tweet This!</a></li>
+<li class='sexy-facebook'><a class='external' href="http://www.facebook.com/share.php?u={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Facebook'>Share this on Facebook</a></li>
+<li class='sexy-comfeed'><a class="external" href="{{ site.url }}/atom.xml" rel="nofollow" title='Subscribe'>Subscribe</a></li>
+<li class='sexy-linkedin'><a class='external' href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" rel='nofollow' title='Share this on Linkedin'>Share this on Linkedin</a></li>
+<li class="sexy-technorati"><a class="external" href="http://technorati.com/faves?add={{ site.url }}{{ page.url }}&title={{ page.title }}" rel='nofollow' title='Share this on Technorati'>Share this on Technorati</a></li>
+<li class="sexy-vkontakte"><a class="external" href="http://vkontakte.ru/share.php?url={{ site.url }}{{ page.url }}" rel='nofollow' title='Share this on Vkontakte'>Share this on Vkontakte</a></li>
+</ul>
+<div style='clear:both;'/>
+</div>
+	</div>
+ 	<div id="footer">
+	<h2>in valid code we trust (*^_^*) miss monorom</h2></div>
+
+</div>
+</body></html>
