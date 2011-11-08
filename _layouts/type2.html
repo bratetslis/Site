@@ -122,12 +122,12 @@ div.sexy-bookmarks ul.socials a:hover{background-color:transparent !important}
 <!-- <span  class='st_livejournal_large' ></span><span  class='st_evernote_large' ></span><span  class='st_twitter_large' ></span><span  class='st_facebook_large' ></span><span  class='st_email_large' ></span> -->
 <div class='sexy-bookmarks sexy-bookmarks-expand sexy-bookmarks-bg-love' style='margin:20px 0 0 0 !important; padding:25px 0 0 10px !important; height:29px;/*the height of the icons (29px)*/ display:block !important; clear:both !important;'>
 <ul class='socials'>
-<li class='sexy-google'><a class='external' expr:href='&quot;http://www.google.com/bookmarks/mark?op=add&amp;bkmk=&quot;+ {{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Add this to Google Bookmarks'>Add this to Google Bookmarks</a></li>
-<li class='sexy-twitter'><a class='external' expr:href='&quot;http://twitter.com/home?status=Reading: &quot; + data:blog.title + &quot; - &quot; + {{ page.url }} + &quot; (@NAME)&quot;' rel='nofollow' title='Tweet This!'>Tweet This!</a></li>
-<li class='sexy-facebook'><a class='external' expr:href='&quot;http://www.facebook.com/share.php?u=&quot;+ {{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Facebook'>Share this on Facebook</a></li>
-<li class='sexy-comfeed'><a class='external' expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' rel='nofollow' title='Subscribe'>Subscribe</a></li>
-<li class='sexy-linkedin'><a class='external' expr:href='&quot;http://www.linkedin.com/shareArticle?mini=true&amp;url=&quot;+ {{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Linkedin'>Share this on Linkedin</a></li>
-<li class='sexy-technorati'><a class='external' expr:href='&quot;http://technorati.com/faves?add=&quot;+ {{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Technorati'>Share this on Technorati</a></li>
+<li class='sexy-google'><a class='external' expr:href='&quot;http://www.google.com/bookmarks/mark?op=add&amp;bkmk=&quot;+ {{ site.url }}{{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Add this to Google Bookmarks'>Add this to Google Bookmarks</a></li>
+<li class='sexy-twitter'><a class='external' expr:href='&quot;http://twitter.com/home?status=Reading: &quot; + data:blog.title + &quot; - &quot; + {{ site.url }}{{ page.url }} + &quot; (@NAME)&quot;' rel='nofollow' title='Tweet This!'>Tweet This!</a></li>
+<li class='sexy-facebook'><a class='external' expr:href='&quot;http://www.facebook.com/share.php?u=&quot;+ {{ site.url }}{{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Facebook'>Share this on Facebook</a></li>
+<li class='sexy-comfeed'><a class='external' expr:href='{{ site.url }} + &quot;/atom.xml&quot;' rel='nofollow' title='Subscribe'>Subscribe</a></li>
+<li class='sexy-linkedin'><a class='external' expr:href='&quot;http://www.linkedin.com/shareArticle?mini=true&amp;url=&quot;+ {{ site.url }}{{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Linkedin'>Share this on Linkedin</a></li>
+<li class='sexy-technorati'><a class='external' expr:href='&quot;http://technorati.com/faves?add=&quot;+ {{ site.url }}{{ page.url }} + &quot;&amp;title=&quot; + {{ page.title }}' rel='nofollow' title='Share this on Technorati'>Share this on Technorati</a></li>
 </ul>
 <div style='clear:both;'/>
 </div></br></br>
