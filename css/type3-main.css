@@ -114,7 +114,7 @@ h2 {
 #left li a.selected {
 	margin: 0;
 	padding: 0 0 0 25px;
-	color:#ffffff;
+	color:#aaa;
 }
 
 #left li li a.selected {
