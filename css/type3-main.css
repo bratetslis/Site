@@ -121,7 +121,9 @@ h2 {
 	margin: 0;
 	padding: 0;
 }
-
+.selected {
+color:#aaa;
+}
 
 /* -----------footer--------------------------- */
 #footer {
