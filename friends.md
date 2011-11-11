@@ -12,7 +12,7 @@ PS: ниже - таблица, по примеру http://bratec-l.narod.ru/klou
 
 4 строки по 3 фотографии или 3 строки по 4 фотографии. Желательно, чтобы при наведении курсора на фотографии всплывали информативные окна, содержание которых пришлю позже.
 <p><table>
-<tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td><img src="../img/sonic.jpg" ALT="Клоун Тим"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
