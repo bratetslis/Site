@@ -3,7 +3,7 @@ layout: type3
 title: Прайскурант
 nav: zakaz
 ---
-<link href="http://google.com/static/spreadsheets/client/css/779923916-published_form_compiled.css" type="text/css" rel="stylesheet">
+<link href="https://docs.google.com/static/spreadsheets/client/css/779923916-published_form_compiled.css" type="text/css" rel="stylesheet">
 <div class="ss-form-container">
 <div class="ss-form-heading"><h1 class="ss-form-title">&#1047;&#1072;&#1082;&#1072;&#1079;</h1>
 <p></p>
