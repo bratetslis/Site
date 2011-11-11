@@ -1,15 +1,16 @@
 ---
 layout: type3
-title: Заказ
+title: РџСЂР°Р№СЃРєСѓСЂР°РЅС‚
 nav: zakaz
 ---
+<link href="http://google.com/static/spreadsheets/client/css/779923916-published_form_compiled.css" type="text/css" rel="stylesheet">
 <div class="ss-form-container">
 <div class="ss-form-heading"><h1 class="ss-form-title">&#1047;&#1072;&#1082;&#1072;&#1079;</h1>
 <p></p>
 <div class="ss-form-desc ss-no-ignore-whitespace">TEst</div>
 
 <hr class="ss-email-break" style="display:none;">
-<div class="ss-required-asterisk">* Обязательно</div></div>
+<div class="ss-required-asterisk">* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</div></div>
 <div class="ss-form"><form action="https://docs.google.com/spreadsheet/formResponse?formkey=dHBNLWVIQUs1ZGtnODlvXzNVeTdLUnc6MQ&amp;ifq" method="POST" id="ss-form">
 
 <br>
