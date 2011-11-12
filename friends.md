@@ -8,9 +8,9 @@ nav: friends
 
 Если вы не видите интересующий вас персонаж на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей).	 
 
-
+![Клоун Тим](../img/tim.jpg "Клоун тим")
 <p><table>
-<tr><td>![Клоун Тим](../img/tim.jpg "Клоун тим")</td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td>!</td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
