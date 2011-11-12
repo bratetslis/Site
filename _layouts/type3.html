@@ -11,42 +11,7 @@
 	<script src="../js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
 	<script src="../js/lightbox.js" type="text/javascript"></script>
 
-<!-- jQuary For Sexy Bookmark -->
-<script src="../jquery-latest.js" type="text/javascript"/>
-<script type="text/javascript">
-jQuery(document).ready(function() {
-// xhtml 1.0 strict way of using target _blank
-jQuery('.sexy-bookmarks a.external').attr("target", "_blank");
-// this block sets the auto vertical expand when there are more than
-// one row of bookmarks.
-var sexyBaseHeight=jQuery('.sexy-bookmarks').height();
-var sexyFullHeight=jQuery('.sexy-bookmarks ul.socials').height();
-if (sexyFullHeight>sexyBaseHeight) {
-jQuery('.sexy-bookmarks-expand').hover(
-function() {
-jQuery(this).animate({
-height: sexyFullHeight+'px'
-}, {duration: 400, queue: false});
-},
-function() {
-jQuery(this).animate({
-height: sexyBaseHeight+'px'
-}, {duration: 400, queue: false});
-}
-);
-}
-// autocentering
-if (jQuery('.sexy-bookmarks-center')) {
-var sexyFullWidth=jQuery('.sexy-bookmarks').width();
-var sexyBookmarkWidth=jQuery('.sexy-bookmarks:first ul.socials li').width();
-var sexyBookmarkCount=jQuery('.sexy-bookmarks:first ul.socials li').length;
-var numPerRow=Math.floor(sexyFullWidth/sexyBookmarkWidth);
-var sexyRowWidth=Math.min(numPerRow, sexyBookmarkCount)*sexyBookmarkWidth;
-var sexyLeftMargin=(sexyFullWidth-sexyRowWidth)/2;
-jQuery('.sexy-bookmarks-center').css('margin-left', sexyLeftMargin+'px');
-}
-});
-</script> 
+<!-- Google Script -->
 	<script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -62,9 +27,8 @@ jQuery('.sexy-bookmarks-center').css('margin-left', sexyLeftMargin+'px');
   </script>
 <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'659f2052-a7b0-4b5d-ab8d-f357bd58bcb0'});</script>
 
-<body onload="initLightbox()">
+<body>
  <!-- Basic template by monorom at www.intensivstation.coh -->
-
 <div id="container">
 	<div id="banner"><p><img src="../img/sonic.jpg"></img></a></p>
 </div><!-- end banner -->
