@@ -23,7 +23,15 @@ h2 {
 }
 
 img.download {vertical-align:middle;}
-
+/* ----------fonts-----------------------*/
+@font-face {  
+  font-family: comic ;  
+  src: url( ../fonts/comic.ttf ) format("truetype");  
+}  
+ 
+/* Then use it like you would any other font */  
+.comic { font-family: comic , verdana, helvetica, sans-serif;  
+}  
 /* ----------container zentriert das layout-------------- */
 #container {
 	width: 70em;
@@ -62,6 +70,7 @@ img.download {vertical-align:middle;}
 }
 
 p, pre {
+	font-family: comic;
 	padding: 0 20px 15px 25px;
 	margin:0;
 }
