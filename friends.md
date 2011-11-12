@@ -8,9 +8,8 @@ nav: friends
 
 Если вы не видите интересующий вас персонаж на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей).	 
 
-![Альтернативный текст](../img/tim.jpg "Необязательное заглавие")
 <p><table>
-<tr><td><a href="../img/tim.jpg" rel="lightbox" title="Клоун Тим"><img src="../img/tim.jpg"  rel="lightbox" alt="Клоун Тим"/></a></td><td><img src="../img/sonic.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td><a href="../img/tim.jpg" rel="lightbox"><img src="../img/tim.jpg" width="100" height="40" alt="Клоун Тим" /></a></td><td><img src="../img/sonic.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
