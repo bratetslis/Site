@@ -10,7 +10,7 @@ nav: friends
 
 ![Альтернативный текст](../img/tim.jpg "Необязательное заглавие")
 <p><table>
-<tr><td><img src="../img/tim.jpg" alt="Клоун Тим"/></td><td><img src="../img/sonic.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td><a href="../img/tim.jpg" rel="lightbox" title="Клоун Тим"><img src="../img/tim.jpg"  rel="lightbox" alt="Клоун Тим"/></a></td><td><img src="../img/sonic.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
