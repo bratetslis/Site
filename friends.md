@@ -6,10 +6,11 @@ nav: friends
 <br><br>
 Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!
 
-Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)	 
+
 
 <p><table>
-<tr><td><a href="../tim/" alt="Клоун Тим"><img src="../img/tim.jpg" alt="Клоун Тим"></a></td><td><img src="../img/zvezdochka.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td><a href="../tim/" alt="Клоун Тим"><img src="../img/tim.jpg" ></a></td><td><img src="../img/zvezdochka.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td>Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)   </td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
