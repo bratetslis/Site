@@ -9,7 +9,7 @@ nav: friends
 Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)	 
 
 <p><table>
-<tr><td><a href="../tim/" alt="Клоун Тим"><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
+<tr><td><a href="../tim/" alt="Клоун Тим"><img src="../img/tim.jpg" alt="Клоун Тим"></a></td><td><img src="../img/zvezdochka.jpg"/></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
