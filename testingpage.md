@@ -40,3 +40,5 @@ title: Yandex
 ### для АУДИТОРИИ "ВЗРОСЛЫХ" ЗРИТЕЛЕЙ
 
 Подходит практически любой вид игровых, развлекательных и тематических программ в зависимости от пожеланий заказчика. А в проведении таких праздников, как свадьба или юбилей, вам поможет хороший тамада.
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDNyYktXMmp0ems5LTBMVFNaYmNxS0E6MQ" width="760" height="757" frameborder="0" marginheight="0" marginwidth="0">
