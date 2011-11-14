@@ -17,3 +17,6 @@
 	</div><!-- .publinks -->
 	
 </div><!-- .box -->
+еще вариант
+<table border="0" cellpadding="0" cellspacing="0"><tr valign="middle"><td align="right" class="small" valign="top"><br>Поделиться ссылкой:&nbsp;&nbsp;&nbsp;</td><td align="left"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div> 
+</td></tr></table>
