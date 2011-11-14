@@ -9,15 +9,20 @@ nav: contacts
 
 8-916-2972413 
 
-написав письмо на e-mail:
+написав письмо на e-mail: pochta@bratetslis.ru
 
-pochta@bratetslis.ru
+<!-- или заполнив форму:
 
-или воспользовавшись приведенной ниже формой:
+<form action="send.php" method=post>
+<table border=0>
+<tr><td>Тема</td><td>
+<input type=text name="sub" cols=40>
+</td></tr>
+<tr>
+<td colspan=2>
+Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea></td></tr>
+<tr>
+<td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
+</table></form> -->
 
-(ниже должна быть форма, воспользовавшись которой посетитель сайта сразу может отправить свое сообщение).
 
-1. Ваше имя 
-2. Тема вашего сообщения
-3. Способ связи с вами (мейл, телефон)
-4. Содержание сообщения
