@@ -10,9 +10,9 @@ nav: contacts
 8-916-2972413 
 
 написав письмо на e-mail: pochta@bratetslis.ru
-<!--
 
-или заполнив форму:
+
+<!--или заполнив форму:
 
 <form action="send.php" method=post>
 <table border=0>
@@ -24,6 +24,5 @@ nav: contacts
 Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea></td></tr>
 <tr>
 <td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
-</table></form>
--->
+</table></form> -->
 
