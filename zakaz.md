@@ -3,14 +3,7 @@ layout: type3
 title: Прейскурант
 nav: zakaz
 ---
-<div class="ss-form-container">
-<div class="ss-form-heading"><h1 class="ss-form-title">&#1060;&#1086;&#1088;&#1084;&#1072; &#1079;&#1072;&#1082;&#1072;&#1079;&#1072;</h1>
-<p></p>
-<div class="ss-form-desc ss-no-ignore-whitespace">Через данную форму вы можете заказать праздник для вас или вашего ребёнка.</div>
-
-<hr class="ss-email-break" style="display:none;">
-<div class="ss-required-asterisk">* Обязательно</div></div>
-<div class="ss-form"><form action="https://docs.google.com/spreadsheet/formResponse?formkey=dDNyYktXMmp0ems5LTBMVFNaYmNxS0E6MQ&amp;ifq" method="POST" id="ss-form">
+<form action="https://docs.google.com/spreadsheet/formResponse?formkey=dDNyYktXMmp0ems5LTBMVFNaYmNxS0E6MQ&amp;ifq" method="POST" id="ss-form">
 
 <br>
 <div class="errorbox-good">
@@ -35,26 +28,3 @@ nav: zakaz
 
 <div class="ss-item ss-navigate"><div class="ss-form-entry">
 <input type="submit" name="submit" value="&#1043;&#1086;&#1090;&#1086;&#1074;&#1086;"></div></div></form>
-<script type="text/javascript">
-      
-      (function() {
-var divs = document.getElementById('ss-form').
-getElementsByTagName('div');
-var numDivs = divs.length;
-for (var j = 0; j < numDivs; j++) {
-if (divs[j].className == 'errorbox-bad') {
-divs[j].lastChild.firstChild.lastChild.focus();
-return;
-}
-}
-for (var i = 0; i < numDivs; i++) {
-var div = divs[i];
-if (div.className == 'ss-form-entry' &&
-div.firstChild &&
-div.firstChild.className == 'ss-q-title') {
-div.lastChild.focus();
-return;
-}
-}
-})();
-      </script></div>
