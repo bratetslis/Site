@@ -13,7 +13,7 @@ nav: contacts
 
 или заполнив форму:
 
-<FORM ACTION="send.php" METHOD="post">
+<FORM ACTION="send.php" METHOD=post>
 <TABLE BORDER=0>
 <tr><td>Тема</td><td>
 <input type=text name="sub" cols=40>
