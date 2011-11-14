@@ -20,3 +20,47 @@
 еще вариант
 <table border="0" cellpadding="0" cellspacing="0"><tr valign="middle"><td align="right" class="small" valign="top"><br>Поделиться ссылкой:&nbsp;&nbsp;&nbsp;</td><td align="left"><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div> 
 </td></tr></table>
+
+и еще
+ 
+<h3 class='topic_share left'>Поделиться темой:</h3>
+ 
+ 
+	<ul class='topic_share left shareButtons'>
+	
+		<li><a href="http://roads.ru/forum/index.php?sharelink=twitter;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через Twitter" class='_slink' id='slink_twitter'><img src="http://roads.ru/forum/public/style_extra/sharelinks/twitter.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=facebook;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через Facebook" class='_slink' id='slink_facebook'><img src="http://roads.ru/forum/public/style_extra/sharelinks/facebook.png" /></a></li>
+	
+ 
+		
+	
+ 
+		
+	
+ 
+		
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=vkontakte;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через Вконтакте" class='_slink' id='slink_vkontakte'><img src="http://roads.ru/forum/public/style_extra/sharelinks/vkontakte.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=memori;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через Мемори" class='_slink' id='slink_memori'><img src="http://roads.ru/forum/public/style_extra/sharelinks/memori.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=bobrdobr;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через БобрДобр" class='_slink' id='slink_bobrdobr'><img src="http://roads.ru/forum/public/style_extra/sharelinks/bobrdobr.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=email;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDg,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Поделиться ссылкой через Email" class='_slink' id='slink_email'><img src="http://roads.ru/forum/public/style_extra/sharelinks/email.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=print;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDgmcGlkPTcwNjY0JnN0PTIwJg,,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Печать" class='_slink' id='slink_print'><img src="http://roads.ru/forum/public/style_extra/sharelinks/print.png" /></a></li>
+	
+ 
+		<li><a href="http://roads.ru/forum/index.php?sharelink=download;aHR0cDovL3JvYWRzLnJ1L2ZvcnVtL2luZGV4LnBocD9zaG93dG9waWM9MjYxMDgmcGlkPTcwNjY0JnN0PTIwJg,,;0KHQtdCy0LXRgNC-LdCX0LDQv9Cw0LTQvdCw0Y8g0YXQvtGA0LTQsA,," rel="nofollow" target="_blank" title="Скачать" class='_slink' id='slink_download'><img src="http://roads.ru/forum/public/style_extra/sharelinks/download.png" /></a></li>
+	
+ 
+		
+	
+	</ul>
