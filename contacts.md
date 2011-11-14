@@ -13,16 +13,16 @@ nav: contacts
 
 или заполнив форму:
 
-<FORM ACTION="send.php" METHOD=post>
-<TABLE BORDER=0>
+<form action="send.php" method=post>
+<table border=0>
 <tr><td>Тема</td><td>
 <input type=text name="sub" cols=40>
 </td></tr>
-<TR>
-<TD colspan=2>
-Сообщение: <BR><textarea name="mes" cols=40 rows=5></textarea></TD></TR>
-<TR>
-<TD colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></TD></TR>
-</TABLE></FORM> 
+<tr>
+<td colspan=2>
+Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea></td></tr>
+<tr>
+<td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
+</table></form> 
 
 
