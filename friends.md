@@ -6,10 +6,12 @@ nav: friends
 
  
  
-<script language="JavaScript">
-   <!-- hide 
-   function openWin()
-   {    myWin= open("bla.htm");   }
+<!-- hide
+   
+   function openWin2() {
+    myWin= open("../img/tim.jpg","displayWindow",
+    "width=400,height=300,status=no,toolbar=no,menubar=no");
+   }
    
    // -->
 <br><br>
