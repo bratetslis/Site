@@ -7,11 +7,9 @@ nav: friends
  
  
 <script language="JavaScript">
-   <!-- hide
-   
-   function openWin() {
-    myWin= open("bla.htm");
-   }
+   <!-- hide 
+   function openWin()
+   {    myWin= open("bla.htm");   }
    
    // -->
 <br><br>
