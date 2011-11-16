@@ -12,17 +12,5 @@ nav: contacts
 написав письмо на e-mail: pochta@bratetslis.ru
 
 
-<!--или заполнив форму:
 
-<form action="send.php" method=post>
-<table border=0>
-<tr><td>Тема</td><td>
-<input type=text name="sub" cols=40>
-</td></tr>
-<tr>
-<td colspan=2>
-Сообщение: <br><textarea name="mes" cols=40 rows=5></textarea></td></tr>
-<tr>
-<td colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></td></tr>
-</table></form> -->
-
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDNyYktXMmp0ems5LTBMVFNaYmNxS0E6MQ" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
