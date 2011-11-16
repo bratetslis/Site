@@ -14,16 +14,6 @@ nav: friends
 
 <p><table>
 
-   <script language="JavaScript">
-   <!-- hide
-   
-   function openWin2() {
-    myWin= open("../img/tim.jpg", "displayWindow",
-    "width=400,height=300,status=no,toolbar=no,menubar=no");
-   }
-   
-   // -->
-   </script>
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td> <form>
    <input type="button" value="new" onClick="openWin2()">
