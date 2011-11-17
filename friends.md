@@ -21,4 +21,4 @@ nav: friends
 <table><tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
-<a href="../tim/Tim.html" class="u-s-photo" style="width: 46px; height: 62px;> <img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a>
+<a href="../tim/Tim.html" class="u-s-photo" style="width: 46px; height: 62px;> ...</a>
