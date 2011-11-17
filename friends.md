@@ -7,7 +7,18 @@ nav: friends
  
 <br><br>
 Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!
-  
+  <FORM ACTION="send.php" METHOD=post>
+<TABLE BORDER=0>
+<tr><td>Тема</td><td>
+<input type=text name="sub" cols=40>
+</td></tr>
+<TR>
+<TD colspan=2>
+Сообщение: <BR><textarea name="mes" cols=40 rows=5></textarea></TD></TR>
+<TR>
+<TD colspan=2 align=center><input type=submit value="Отправить"> <input type=reset value="Очистить"></TD></TR>
+</TABLE></FORM> 
+
 <p><table>
 
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/sonic.jpg"></img></td></tr>
