@@ -21,4 +21,3 @@ nav: friends
 <table><tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 <tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
 </table></p>
-<a href="../tim/Tim.html" target="_blank" style="width: 46px; height: 62px;"> ...</a>
