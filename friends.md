@@ -14,8 +14,8 @@ nav: friends
 
 <p><table>
 
-<tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/sonic.jpg"></img></td></tr>
-<tr><td> Клоун Тим </td><td>Звездочка</td><td>Sonic</td></tr></table>
+<tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg"alt=aa"Гном"></img></td></tr>
+<tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr></table>
 
 Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)  
 <table><tr><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td><td><img src="../img/sonic.jpg"></img></td></tr>
