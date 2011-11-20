@@ -11,5 +11,4 @@ nav: contacts
 
 написав письмо на e-mail: pochta@bratetslis.ru
 
-или заполнив форму:
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dF90VlIyVFRfWjFDUHhpZktLQ2VEbWc6MA" width="760" height="764" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+или заполнив форму: <a href="../zakaz/">Напишите нам</a> 
