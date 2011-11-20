@@ -10,13 +10,13 @@ nav: friends
  
 
 
-<p><table>
+<p><center><table>
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
-</table></p>
+</table></center></p>
 
 Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)  
