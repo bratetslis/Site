@@ -13,4 +13,3 @@ nav: contacts
 
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dF90VlIyVFRfWjFDUHhpZktLQ2VEbWc6MA" width="760" height="764" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDNyYktXMmp0ems5LTBMVFNaYmNxS0E6MQ" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
