@@ -35,6 +35,12 @@ eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
 }
 }
 </script>
+<style type="text/css">
+#text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px; VISIBILITY: hidden; WIDTH: 250px; Z-INDEX: 10}
+A { text-decoration: none; }
+A:hover { color: #FF0000; text-decoration: underline; }
+</style>
+
 
 
 
