@@ -3,6 +3,39 @@ layout: type3
 title: Мои Друзья
 nav: friends
 ---
+<script language="JavaScript">
+if (parseInt(navigator.appVersion)>= 4)
+{
+if (navigator.appName == "Netscape")
+{
+layerStyleRef="layer.";
+layerRef="document.layers";
+styleSwitch="";
+}
+else
+{
+layerStyleRef="layer.style.";
+layerRef="document.all";
+styleSwitch=".style";
+}
+}
+
+function show(layerName)
+{
+if (parseInt(navigator.appVersion)>= 4)
+{
+eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+}
+}
+
+function cls(layerName){
+if (parseInt(navigator.appVersion)>= 4) 
+{
+eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+}
+}
+</script>
+
 
 
 <br><br>
