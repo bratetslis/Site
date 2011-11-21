@@ -4,41 +4,54 @@ title: Мои Друзья
 nav: friends
 ---
 <script language="JavaScript">
-if (parseInt(navigator.appVersion)>= 4)
-{
-if (navigator.appName == "Netscape")
-{
-layerStyleRef="layer.";
-layerRef="document.layers";
-styleSwitch="";
+   <!-- hide
+   
+   function openWin2() {
+    myWin= open("../img/tim.jpg","displayWindow",
+    "width=400,height=300,status=no,toolbar=no,menubar=no");
+   }
+   
+   // -->
+   </script>
+   </head>
+   <body>
+  <script language="JavaScript"> 
+ if (parseInt(navigator.appVersion)>= 4)
+ {
+  if (navigator.appName == "Netscape")
+ {
+   layerStyleRef="layer.";
+       layerRef="document.layers";
+        styleSwitch="";
+    }
+    else
+    {
+    layerStyleRef="layer.style.";
+    layerRef="document.all";
+    styleSwitch=".style";
+    }
 }
-else
-{
-layerStyleRef="layer.style.";
-layerRef="document.all";
-styleSwitch=".style";
-}
-}
-
+ 
 function show(layerName)
 {
-if (parseInt(navigator.appVersion)>= 4)
-{
-eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+    if (parseInt(navigator.appVersion)>= 4)
+    {
+      eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+     }
 }
-}
-
+ 
 function cls(layerName){
-if (parseInt(navigator.appVersion)>= 4) 
-{
-eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
-}
+  if (parseInt(navigator.appVersion)>= 4) 
+  {
+   eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+   }
 }
 </script>
-<style type="text/css">
-#text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px; VISIBILITY: hidden; WIDTH: 250px; Z-INDEX: 10}
-A { text-decoration: none; }
-A:hover { color: #FF0000; text-decoration: underline; }
+
+<style type="text/css"> 
+ #text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px; VISIBILITY: hidden; WIDTH: 250px; Z-INDEX: 10}
+ A { text-decoration: underline; }
+ A:hover {  color: #FF0000; text-decoration: underline; none;}
 </style>
 
 
