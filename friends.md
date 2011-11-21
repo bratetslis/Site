@@ -3,18 +3,7 @@ layout: type3
 title: Мои Друзья
 nav: friends
 ---
-<script language="JavaScript">
-   <!-- hide
-   
-   function openWin2() {
-    myWin= open("../img/tim.jpg","displayWindow",
-    "width=400,height=300,status=no,toolbar=no,menubar=no");
-   }
-   
-   // -->
-   </script>
-   </head>
-   <body>
+
   <script language="JavaScript"> 
  if (parseInt(navigator.appVersion)>= 4)
  {
