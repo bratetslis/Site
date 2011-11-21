@@ -48,7 +48,7 @@ A:hover { color: #FF0000; text-decoration: underline; }
 
 
 <p><center><table>
-<tr><td><a href="javascript:alert('Вот такая неслабенькая подсказочка...')" onmouseout="cls("text1");" onmouseover="show("text1");"><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
+<tr><td><a href="javascript:alert('Вот такая неслабенькая подсказочка...')" onmouseout="cls('text1');" onmouseover="show('text1');"><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 <tr><td><a href="../tim/Tim.html" target="_blank"><img src="../img/tim.jpg" alt="Привет. Меня зовут Тим!"></a></td><td><img src="../img/zvezdochka.jpg" alt="Звездочка"></td><td><img src="../img/gnom.jpg" alt="Гном"></img></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
