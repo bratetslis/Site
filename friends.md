@@ -3,6 +3,7 @@ layout: type3
 title: Мои Друзья
 nav: friends
 ---
+<script src="../js/prototype.js" type="text/javascript"></script>
 <script language="JavaScript">
 function showhint(layerName) {
 $('text1').show();
