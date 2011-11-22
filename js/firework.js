@@ -2,10 +2,10 @@
 // Javascript made by Rasmus - http://www.peters1.dk //
 ////////////////////////////////////////////////////////////////
 
-var FIRE_Path = "/billeder/fyrvarkeri/"; // Path to the directory containing the firework-pictures
-var FIRE_no = 10; // Numbers of Rockets in one firework
-var FIRE_Pause = 5; // Pause between the fireworks in seconds
-var FIRE_SameColor = false; // If true = The rockets have the same color in one firework
+var FIRE_Path = "http://www.domain.com/firework/"; // Путь в папке с картинками
+var FIRE_no = 10; // Количество рокет в залпе
+var FIRE_Pause = 5; // Пауза между залпами в секундах
+var FIRE_SameColor = false; // true = Ракеты должны быть одного цвета (true/false)
 
 var FIRE_Time, FIRE_Bang, FIRE_Vindue_Width, FIRE_Vindue_Height;
 var FIRE_PosLeft, FIRE_PosTop, FIRE_PosVenAfv, FIRE_PosTopAfv;
