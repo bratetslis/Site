@@ -9,8 +9,11 @@ nav: friends
 #text2 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} </style>
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 <p><center><table>
-<tr><td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseout="hidehint('text1');" onmouseover="showhint('text1');"><img src='../img/tim.jpg' /></a></td><td><img src='../img/zvezdochka.jpg' alt='Звездочка' /></td><td><img src='../img/gnom.jpg' alt='Гном' /><img /></td></tr>
+<tr><td>
+<a href="javascript:alert('Смотрите и другие подсказки по любому 
+персонажу')" onmouseover="showhint('text2');"onmouseout="hidehint('text2');"><img src='../img/zvezdochka.jpg' alt='Звездочка' /></td><td><img src='../img/gnom.jpg' alt='Гном' /><img /></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
+
 <tr><td><a href='../tim/Tim.html' target='_blank'><img src='../img/tim.jpg' alt='Привет. Меня зовут Тим!' /></a></td><td><img src='../img/zvezdochka.jpg' alt='Звездочка' /></td><td><img src='../img/gnom.jpg' alt='Гном' /><img /></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 <tr><td><a href='../tim/Tim.html' target='_blank'><img src='../img/tim.jpg' alt='Привет. Меня зовут Тим!' /></a></td><td><img src='../img/zvezdochka.jpg' alt='Звездочка' /></td><td><img src='../img/gnom.jpg' alt='Гном' /><img /></td></tr>
