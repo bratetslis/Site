@@ -13,7 +13,7 @@ nav: friends
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 
 <table>
-<tr><td><a href= onmouseover="showhint('text1');" onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
+<tr><td><a href="" onmouseover="showhint('text1');" onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
