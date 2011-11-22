@@ -12,8 +12,7 @@ nav: friends
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 <p><center>
 <table>
-<tr>
-<td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text1');"onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
+<tr><td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text1');"onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text2');"onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></td>
 <td><img src='../img/gnom.jpg'></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
@@ -21,7 +20,8 @@ nav: friends
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 <tr><td><a href="../tim/Tim.html"><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
-</table></center></p>
+</table>
+</center></p>
 <p>Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)</p>
 <table cellspacing="0" id='text1' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 300px; TOP: 130px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-2"><b>Привет. Меня зовут Тим!</b><br>
