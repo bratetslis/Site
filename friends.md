@@ -4,16 +4,9 @@ title: Мои Друзья
 nav: friends
 ---
 
- <style type="text/css"> 
- #text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10}
- A { text-decoration: underline; }
- A:hover {  color: #FF0000; text-decoration: underline; none}
-</style>
- <style type="text/css"> 
- #text2 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10}
- A { text-decoration: underline; }
- A:hover {  color: #FF0000; text-decoration: underline; none}
-</style>
+<style type='text/css'> 
+#text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10}  
+#text2 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} </style>
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество неповторимым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 <p><center><table>
 <tr><td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseout="hidehint('text1');" onmouseover="showhint('text1');"><img src='../img/tim.jpg' /></a></td><td><img src='../img/zvezdochka.jpg' alt='Звездочка' /></td><td><img src='../img/gnom.jpg' alt='Гном' /><img /></td></tr>
