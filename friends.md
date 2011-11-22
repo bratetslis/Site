@@ -3,7 +3,14 @@ layout: type3
 title: Мои Друзья
 nav: friends
 ---
-
+<script language="JavaScript">
+function showhint(layerName) {
+$('text1').show();
+}
+function hidehint(layerName){
+$('text1').hide();
+}
+</script>
  <style type="text/css"> 
  #text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10}
  A { text-decoration: underline; }
