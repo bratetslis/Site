@@ -17,9 +17,9 @@ nav: friends
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
-<tr><td><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td></tr>
+<tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
-<tr><td><img src="../img/tim.jpg"></a></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td></tr>
+<tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td></tr>
 </table>
 
