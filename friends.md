@@ -8,6 +8,11 @@ nav: friends
 #text1 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 #text2 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 #text3 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
+#text4 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
+#text5 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
+#text6 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
+#text7 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
+#text8 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 </style>
 
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество не-по-вто-ри-мым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
@@ -42,6 +47,49 @@ nav: friends
 Гном оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
 Веселятся все!</font>
 </td></tr></table>
+<table cellspacing="0" id='text4' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+ </font>
+</td></tr></table>
+<table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+ </font>
+</td></tr></table>
+<table cellspacing="0" id='text6' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+ </font>
+</td></tr></table>
+<table cellspacing="0" id='text7' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+ </font>
+</td></tr></table>
+<table cellspacing="0" id='text8' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+</font>
+</td></tr></table>
+
+
+
+
+
+
+
+
 <br>
 
 <br>
