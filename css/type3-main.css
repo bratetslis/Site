@@ -64,6 +64,7 @@ img.download {vertical-align:middle;}
 /* -----------------Inhalt--------------------- */
 #content {
 	min-height:600px;
+	width: 900px;
 	background-color: #ffffff;
 	padding: 0;
 	margin: 0 0 0 20em;
