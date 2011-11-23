@@ -2,9 +2,9 @@
 // Javascript made by Rasmus - http://www.peters1.dk //
 ////////////////////////////////////////////////////////////////
 
-var FIRE_Path = "http://www.domain.com/firework/"; // Путь в папке с картинками
-var FIRE_no = 10; // Количество рокет в залпе
-var FIRE_Pause = 5; // Пауза между залпами в секундах
+var FIRE_Path = "../img/"; // Путь в папке с картинками
+var FIRE_no = 40; // Количество рокет в залпе
+var FIRE_Pause =2; // Пауза между залпами в секундах
 var FIRE_SameColor = false; // true = Ракеты должны быть одного цвета (true/false)
 
 var FIRE_Time, FIRE_Bang, FIRE_Vindue_Width, FIRE_Vindue_Height;

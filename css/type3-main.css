@@ -1,6 +1,7 @@
 body {
 	background-color: #fff;
 	font-size: 0.8em;
+         width: 900px;
 	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
 	color:#564b47;
 	padding:0;
@@ -64,7 +65,9 @@ img.download {vertical-align:middle;}
 /* -----------------Inhalt--------------------- */
 #content {
 	min-height:600px;
-	background-color: #ffffff;
+         width: 650px;
+
+		background-color: #ffffff;
 	padding: 0;
 	margin: 0 0 0 20em;
 }
@@ -92,7 +95,7 @@ h2 {
 /* --------------left navigavtion------------- */
 #left {
 	float: left;
-	width: 20em;
+	width: 250px;
 	margin: 0;
 	padding:15px 0 0 0;
 	color:#ffffff;
