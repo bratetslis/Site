@@ -37,17 +37,17 @@ nav: friends
 Клоун Тим оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
 Веселятся все!</font>
 </td></tr></table>
-<table cellspacing="0" id='text2' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 100px; TOP: 200px; WIDTH: 300px; display:none">
+<table cellspacing="0" id='text2' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 55%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Меня зовут Звездочка!</b><br>
 Звездочка оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
 Веселятся все!</font>
 </td></tr></table>
-<table cellspacing="0" id='text3' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<table cellspacing="0" id='text3' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 60%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 Гном оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
 Веселятся все!</font>
 </td></tr></table>
-<table cellspacing="0" id='text4' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<table cellspacing="0" id='text4' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 65%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 
 
