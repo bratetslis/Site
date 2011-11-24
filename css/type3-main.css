@@ -6,7 +6,7 @@ body {
 	color:#564b47;
 	padding:0;
 	margin:auto;
-	background: url( '/img/fire.gif'); 
+<!--	background: url( '/img/fire.gif'); -->
 }
 a {color: #000;}
 a:visited {color:#000000;}
@@ -99,9 +99,6 @@ h2 {
 	margin: 0;
 	padding:0 0 0 0;
 	color:#ffffff;
-	margin-bottom: auto;
-	background: url( '/img/Background.gif'); 
-	background-color: #fff;
 }
 #left ul{
 	list-style-type: none ;
