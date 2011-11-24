@@ -5,9 +5,7 @@ body {
 	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
 	color:#564b47;
 	padding:0;
-	margin:10%;
-	background-position: top center;
-	background:  fixed center;
+	margin:auto;
 	background: url( '/img/Background.gif');
 }
 a {color: #000;}
