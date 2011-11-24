@@ -82,14 +82,5 @@ nav: friends
 
 </font>
 </td></tr></table>
-
-
-
-
-
-
-
-
 <br>
-
 <br>
