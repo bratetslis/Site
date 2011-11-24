@@ -2,11 +2,11 @@ body {
 	background-color: #fff;
        	font-size: 0.8em;
          width: 900px;
-	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif, comic;
 	color:#564b47;
 	padding:0;
 	margin:auto;
-	background: url( '/img/fire.gif');
+<!--	background: url( '/img/fire.gif'); -->
 }
 a {color: #000;}
 a:visited {color:#000000;}
@@ -66,9 +66,8 @@ img.download {vertical-align:middle;}
 /* -----------------Inhalt--------------------- */
 #content {
 	min-height:600px;
-         width: 650px;
-
-		background-color: #ffffff;
+        width: 650px;
+	background-color: #ffffff;
 	padding: 0;
 	margin: 0 0 0 20em;
 }
@@ -100,7 +99,6 @@ h2 {
 	margin: 0;
 	padding:15px 0 0 0;
 	color:#ffffff;
-	background-color: #ffffff;
 }
 #left ul{
 	list-style-type: none ;
