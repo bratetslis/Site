@@ -100,6 +100,7 @@ h2 {
 	padding:0 0 0 0;
 	color:#ffffff;
 	margin-bottom: auto;
+	background: url( '/img/Background.gif'); 
 }
 #left ul{
 	list-style-type: none ;
