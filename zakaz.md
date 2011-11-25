@@ -10,7 +10,7 @@ nav: zakaz
 <form action="http://../send.php" method="post">
 
 <p>Ваше имя:
- <input type="text" name="fio" width="20">
+ <input type="text" name="fio" width="20"></p>
  <p>Ваш e-mail:
  <input type="text" name="email" width="20"></p>
  <p>Текст сообщения:
