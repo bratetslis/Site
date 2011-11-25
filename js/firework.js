@@ -64,7 +64,7 @@ function FIRE_Op(FIRE_number)
 	{
 		FIRE_PosTop[FIRE_number] = FIRE_PosTop[FIRE_number] - FIRE_PosTopAfv[FIRE_number];
 		FIRE_PosLeft[FIRE_number] = FIRE_PosLeft[FIRE_number] + FIRE_PosVenAfv[FIRE_number];
-		FIRE_PosTopAfv[FIRE_number] = (FIRE_PosTop[FIRE_number]/50);
+		FIRE_PosTopAfv[FIRE_number] = (FIRE_PosTop[FIRE_number]/30);
 		document.getElementById("FIRE_no"+FIRE_number).style.top=FIRE_PosTop[FIRE_number]+"px";
 		document.getElementById("FIRE_no"+FIRE_number).style.left=FIRE_PosLeft[FIRE_number]+"px";
 		FIRE_Time[i] = setTimeout("FIRE_Op("+FIRE_number+")",10);
