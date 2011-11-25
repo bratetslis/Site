@@ -9,12 +9,12 @@ nav: zakaz
 <td>
 <form action="../send.php" method="post">
 
-<p>Ваше имя:
- <input type="text" name="fio" width="20"></p>
- <p>Ваш e-mail:
- <input type="text" name="email" width="20"></p>
- <p>Текст сообщения:
-<textarea name="money" cols="40" rows="5"></textarea></p>
+Ваше имя:
+ <input type="text" name="fio" width="20">
+Ваш e-mail:
+ <input type="text" name="email" width="20">
+Текст сообщения:
+<textarea name="money" cols="40" rows="5"></textarea>
 
 </form>
 </td>
