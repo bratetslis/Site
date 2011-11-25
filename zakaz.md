@@ -12,9 +12,9 @@ nav: zakaz
 <p>Ваше имя:
  <input type="text" name="fio" width="20">
  <p>Ваш e-mail:
- <input type="text" name="email" width="20">
+ <input type="text" name="email" width="20"></p>
  <p>Текст сообщения:
-<textarea name="money" cols="40" rows="5"></textarea>
+<textarea name="money" cols="40" rows="5"></textarea></p>
 <p>Введите числа с картинки: 
   	<?php 
 		$i=1;
