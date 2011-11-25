@@ -5,7 +5,7 @@ nav: zakaz
 ---
 
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
-<div style="width:400px; text-align:left; border:1px solid #CCCCCC; color:#003300; font:12px tahoma, verdana; background:#F5F5F5;">
+<div style="width:500px; text-align:left; border:1px solid #CCCCCC; color:#003300; font:12px tahoma, verdana; background:#F5F5F5;">
 <div style="text-align:center; background:#708090; border:1px solid #F5F5F5; color:#ffffff; padding:5px 5px 5px 5px;">Напишите нам</div>
 <div style="border-top:solid 1px #CCCCCC; padding:8px 20px 0px 20px;">Ваше имя</div>
 <div style="padding:1px 20px 0px 20px;">
