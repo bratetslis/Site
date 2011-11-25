@@ -43,7 +43,7 @@ nav: zakaz
 <div style="padding:8px 20px 0px 20px;">Адрес проведения праздника</div>
 <div style="padding:1px 20px 0px 20px;">
 <input name="pole_6a" type="text" style="width:358px; height:20px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" maxlength="900" />
-<input type="hidden" name="pole_5b" value="Адрес проведения праздника" />
+<input type="hidden" name="pole_6b" value="Адрес проведения праздника" />
 </div>
 <div style="padding:8px 20px 0px 20px;">Ваши пожелания</div>
 <div style="padding:1px 20px 0px 20px;">
