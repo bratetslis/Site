@@ -3,10 +3,7 @@ layout: type3
 title: форма обратной связи
 nav: zakaz
 ---
-<div align="center">
-<table border="1" width="365" align="center" cellpadding="20" cellspacing="6">
-<tr>
-<td>
+
 <form action="../send.php" method="post">
 
 Ваше имя:
@@ -17,8 +14,5 @@ nav: zakaz
 <textarea name="money" cols="40" rows="5"></textarea>
 
 </form>
-</td>
-</tr>
-</table>
-</div>
+
 <iframe  src="https://docs.google.com/spreadsheet/embeddedform?formkey=dF90VlIyVFRfWjFDUHhpZktLQ2VEbWc6MA" width="760" height="764" frameborder="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">Loading...</iframe>
