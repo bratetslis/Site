@@ -61,5 +61,6 @@ nav: zakaz
 <input type="submit" value="Отправить" style="cursor:pointer; width:200px; height:35px; font:15px tahoma;" />
 </div>
 </div></form></center><!-- 10:54, 25.11.2011 -->
-
+<!--
 <iframe  src="https://docs.google.com/spreadsheet/embeddedform?formkey=dF90VlIyVFRfWjFDUHhpZktLQ2VEbWc6MA" width="650" height="764" frameborder="0" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">Loading...</iframe>
+-->
