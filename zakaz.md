@@ -7,7 +7,7 @@ nav: zakaz
 <table border="1" width="365" align="center" cellpadding="20" cellspacing="6">
 <tr>
 <td>
-<form action="http:../send.php" method="post">
+<form action="../send.php" method="post">
 
 <p>Ваше имя:
  <input type="text" name="fio" width="20"></p>
