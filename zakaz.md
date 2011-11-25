@@ -42,7 +42,7 @@ nav: zakaz
 </div>
 <div style="padding:8px 20px 0px 20px;">Адрес проведения праздника</div>
 <div style="padding:1px 20px 0px 20px;">
-<textarea name="text" style="width:358px; height:30px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" maxlength="900" />
+<textarea name="text" style="width:358px; height:30px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" > </textarea>
 </div>
 <div style="padding:8px 20px 0px 20px;">Ваши пожелания</div>
 <div style="padding:1px 20px 0px 20px;">
