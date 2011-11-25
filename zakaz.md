@@ -42,11 +42,11 @@ nav: zakaz
 </div>
 <div style="padding:8px 20px 0px 20px;">Адрес проведения праздника</div>
 <div style="padding:1px 20px 0px 20px;">
-<textarea name="text" style="width:358px; height:40px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" > </textarea>
+<textarea name="adress" style="width:358px; height:40px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" > </textarea>
 </div>
 <div style="padding:8px 20px 0px 20px;">Ваши пожелания</div>
 <div style="padding:1px 20px 0px 20px;">
-<textarea name="text_1" style="width:358px; height:100px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;"> </textarea>
+<textarea name="text" style="width:358px; height:100px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;"> </textarea>
 </div>
 <div style="overflow:auto; width:100%;">
 <div style="float:left; padding:10px 0px 10px 20px;">Число на изображении<br />
