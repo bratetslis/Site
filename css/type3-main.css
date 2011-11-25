@@ -70,6 +70,7 @@ img.download {vertical-align:middle;}
 	background-color: #ffffff;
 	padding: 0;
 	margin: 0 0 0 20em;
+	background-color: #ffcc99;
 }
 
 p, pre {
@@ -99,7 +100,7 @@ h2 {
 	margin: 0;
 	padding:0 0 0 0;
 	color:#ffffff;
-	background-color: #ffffff;
+	background-color: #ffcc99;
 	height: 100%;
 	}
 }
@@ -143,8 +144,7 @@ a.selected {
 /* -----------footer--------------------------- */
 #footer {
 	clear: left;
-	background-color: #ffffff;
+	background-color: #ffcc99;
 	padding: 0;
 	margin: 0;
-	background-color: #fff;
 }
