@@ -50,15 +50,13 @@ nav: friends
 Веселятся все!</font>
 </td></tr></table>
 <table cellspacing="0" id='text4' border="1" align="left" width="100%" о="5" style="HEIGHT: 80px; LEFT: 45%; TOP: 50px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b><br>
-
-
-
- </font>
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b><br></font>
 </td></tr></table>
-<table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"><br>
 
+
+<table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg">
+</td></tr></table>
 
 
  </font>
@@ -84,5 +82,6 @@ nav: friends
 
 </font>
 </td></tr></table>
+<br>
 <br>
 <br>
