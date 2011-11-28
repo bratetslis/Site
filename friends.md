@@ -49,14 +49,15 @@ nav: friends
 Гном оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
 Веселятся все!</font>
 </td></tr></table>
+
 <table cellspacing="0" id='text4' border="1" align="left" width="100%" о="5" style="HEIGHT: 80px; LEFT: 45%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b><br></font>
 </td></tr></table>
 
 
 <table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg">
-</td></tr></table>
+<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"></td><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b></td>
+</tr></table>
 
 
 <table cellspacing="0" id='text6' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
@@ -66,6 +67,7 @@ nav: friends
 
  </font>
 </td></tr></table>
+
 <table cellspacing="0" id='text7' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 
@@ -73,6 +75,7 @@ nav: friends
 
  </font>
 </td></tr></table>
+
 <table cellspacing="0" id='text8' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 
@@ -80,6 +83,7 @@ nav: friends
 
 </font>
 </td></tr></table>
+<br>
 <br>
 <br>
 <br>
