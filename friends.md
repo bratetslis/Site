@@ -56,7 +56,7 @@ nav: friends
 
 
 <table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"></td><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b></font></td>
+<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"></td><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b></font><br><img src="../img/fire.gif"></td>
 </tr></table>
 
 
@@ -82,5 +82,5 @@ nav: friends
 
 
 </font>
-</td></tr></table>
+</td></tr></tabl
 <br>
