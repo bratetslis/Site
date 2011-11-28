@@ -82,5 +82,5 @@ nav: friends
 
 
 </font>
-</td></tr></tabl
+</td></tr></table>
 <br>
