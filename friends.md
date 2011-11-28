@@ -59,8 +59,6 @@ nav: friends
 </td></tr></table>
 
 
- </font>
-</td></tr></table>
 <table cellspacing="0" id='text6' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 
