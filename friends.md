@@ -16,7 +16,7 @@ nav: friends
 </style>
 <style type="text/css">
 .letter {
- font-size: 220%; /* Размер шрифта буквицы */
+ font-size: 300%; /* Размер шрифта буквицы */
  float: left; /* Выравнивание по левому краю */
  color: blue; /* Цвет буквицы */
  padding-right: 3px; /* Отступ между буквицей и текстом */
