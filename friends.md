@@ -14,6 +14,15 @@ nav: friends
 #text7 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 #text8 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 </style>
+<style type="text/css">
+.letter {
+ font-size: 300%; /* Размер шрифта буквицы */
+ float: left; /* Выравнивание по левому краю */
+ color: orange; /* Цвет буквицы */
+ padding-right: 3px; /* Отступ между буквицей и текстом */
+ line-height: 32px; /* Положение символа */ 
+}
+</style>
 
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество не-по-вто-ри-мым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 <p><center>
@@ -23,11 +32,11 @@ nav: friends
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text4');" onmouseout="hidehint('text4');"><img src="../img/tim.jpg"></a></td></tr>
-<tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
+<tr><td> <b>Клоун Тим </b></td><td><b>Звездочка</b></td><td><b>Гном</b></td><td> <b>Клоун Тим</b> </td></tr>
 <tr>
 <td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
 <td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
-<tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
+<tr><td> <strong>Клоун Тим </strong></td><td><strong>Звездочка</strong></td><td><strong>Гном</strong></td><td> <strong>Клоун Тим </strong></td></tr>
 <tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
 </table></center></p>
@@ -41,7 +50,7 @@ nav: friends
 </td></tr></table>
 <table cellspacing="0" id='text2' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 35%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Меня зовут Звездочка!</b><br>
-Звездочка оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.
+<p><span class="letter">З</span>вездочка оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.</p>
 Веселятся все!</font>
 </td></tr></table>
 <table cellspacing="0" id='text3' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 40%; TOP: 50px; WIDTH: 300px; display:none">
@@ -83,4 +92,3 @@ nav: friends
 
 </font>
 </td></tr></table>
-<br>
