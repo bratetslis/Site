@@ -1,4 +1,3 @@
-
 ---
 layout: type3
 title: Мои Друзья
@@ -83,5 +82,4 @@ nav: friends
 
 
 </font>
-</td></tr></table>
-<br>
+</td></tr></t
