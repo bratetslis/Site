@@ -102,7 +102,7 @@ function FIRE_ShowBang(FIRE_number)
 {
 	if (FIRE_number == 0) document.getElementById("FIRE_no"+FIRE_number).innerHTML = "<a href=\"http://www.peters1.dk\" target=\"_blank\"><\img src=\""+FIRE_Billede[FIRE_number]+"\" border=\"0\" /></a>";
 	else document.getElementById("FIRE_no"+FIRE_number).innerHTML = "<\img src=\""+FIRE_Billede[FIRE_number]+"\" border=\"0\" />";
-	document.getElementById("FIRE_no"+FIRE_number).style.top=(FIRE_PosTop[FIRE_number] - 20)+"px";
+	document.getElementById("FIRE_no"+FIRE_number).style.top=(FIRE_PosTop[FIRE_number] - 80)+"px";
 	document.getElementById("FIRE_no"+FIRE_number).style.left=(FIRE_PosLeft[FIRE_number] - 40)+"px";
 	setTimeout("FIRE_Reset("+FIRE_number+")",1000)
 }
