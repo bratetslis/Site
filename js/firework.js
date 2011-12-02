@@ -19,7 +19,7 @@ var FIRE_browser_MOZ = (self.innerWidth) ? 1 : 0;
 if (FIRE_browser_IE_NS)
 {
 	FIRE_Vindue_Width = document.body.clientWidth;
-	FIRE_Vindue_Height = document.body.clientHeight-200px;
+	FIRE_Vindue_Height = document.body.clientHeight;
 }
 else if (FYR_browser_IE_SCM)
 {
