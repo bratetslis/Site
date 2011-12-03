@@ -4,10 +4,6 @@ title: Links
 nav: links
 ---
 
-<table border="0" cellspacing="0" cellpadding="2">
- <tbody><tr><td bgcolor="0099FF"><font color="#FFFFFF" face="Tahoma, Arial, sans-serif"><b>—писок каталогов, в которых сайт регистрировалс€</b></font> </td>
- </tr><tr><td>
-
 <div style="font-size:9px;color:gray;">2011.12.03 11:15</div><span #1psb#time="1322896528" ;date="2011.12.03 11:15" ;fi_s="Yes" ;fi_k="Yes" ;fi_r="Yes" ;fi_plr="Yes" ;fi_pld="Yes" ;fi_alr="Yes" ;fi_fl="Yes" ;fi_bl="Yes" ;#1pse#=""></span><a href="http://minusok.com/"><img src="http://minusok.com/img/banner_88_2.gif" border="0"></a>
 <a href="http://da7.ru/"> <img border="0" src="http:/da7.ru/Image/logo/LOGO-digital-art.png"> ѕродвижение и поискова€ оптимизаци€ сайтов </a>
 <a href="http://links.my33.ru/"><img border="0" src="http://links.my33.ru/img/dv/dv_cat.gif"></a>
@@ -2854,6 +2850,4 @@ nav: links
 </li><li><a href="http://www.rudir.cn/">RuDir - каталог рунета</a> / магазин: <a href="http://discshop.net.ru/">DVD-диски с играми, фильмами, mp3</a>
 </li><li>каталог: <a href="http://www.ruplay.cn/">игры, развлечени€, софт</a>, закажи <a href="http://discshop.net.ru/">DVD-диски почтой</a>
 
-</li></b></b></b></b></strong></b></b></b></b></b></td></tr><tr><td bgcolor="0099FF">
-<div style="font-size:9px;color:white;"></div>
-</td></tr></tbody></table>
+</li>
