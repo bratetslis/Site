@@ -34,7 +34,7 @@ else
 
 var FIRE_Top = 10;
 var FIRE_Bot = FIRE_Vindue_Height - 550; // Начало феерверка
-var FIRE_Mid = FIRE_Vindue_Width/2;
+var FIRE_Mid = FIRE_Vindue_Width;
 
 FIRE_PosLeft = new Array();
 FIRE_PosTop = new Array();
