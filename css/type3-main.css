@@ -34,7 +34,6 @@ img.download {vertical-align:middle;}
 .comic { font-family: comic , verdana, helvetica, sans-serif;  
 }  
 
-<style type="text/css">
 .letter {
  font-size: 220%; /* Размер шрифта буквицы */
  float: left; /* Выравнивание по левому краю */
@@ -42,7 +41,6 @@ img.download {vertical-align:middle;}
  padding-right: 3px; /* Отступ между буквицей и текстом */
  line-height: 32px; /* Положение символа */ 
 }
-</style>
 
 /* ----------container zentriert das layout-------------- */
 #container {
