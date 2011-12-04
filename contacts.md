@@ -11,7 +11,7 @@ nav: contacts
 
 написав письмо на e-mail: <br>
 
-pochta@bratetslis.ru<br><br>
+lis@bratetslis.ru<br><br>
 
 или заполнив форму: </center></p>
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
