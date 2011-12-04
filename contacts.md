@@ -4,7 +4,7 @@ title: Мои Контакты
 nav: contacts
 ---
 <br><br>
-
+<p align=center>
 Сделать заказ или задать интересующие вопросы вы можете позвонив по телефону:
 
 8-916-297-24-13 
@@ -70,4 +70,4 @@ pochta@bratetslis.ru
 <div style="padding:5px 20px 15px 20px; text-align:center;">
 <input type="submit" value="Отправить" style="cursor:pointer; width:200px; height:35px; font:15px tahoma;" />
 </div>
-</div></form></center><!-- 10:54, 25.11.2011 -->
+</div></form></center><!-- 10:54, 25.11.2011 --></p>
