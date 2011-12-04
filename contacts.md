@@ -4,7 +4,7 @@ title: Мои Контакты
 nav: contacts
 ---
 <br><br>
-<p align=center>
+<p><center>
 Сделать заказ или задать интересующие вопросы вы можете позвонив по телефону:
 
 8-916-297-24-13 
@@ -13,7 +13,7 @@ nav: contacts
 
 pochta@bratetslis.ru
 
-или заполнив форму: <!-- <a href="../zakaz/">Напишите нам</a> --> </p>
+или заполнив форму: </center></p>
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
 <div style="width:500px; text-align:left; border:1px solid #CCCCCC; color:#003300; font:12px tahoma, verdana; background:#F5F5F5;">
 <div style="text-align:center; background:#708090; border:1px solid #F5F5F5; color:#ffffff; padding:5px 5px 5px 5px;">Напишите нам</div>
