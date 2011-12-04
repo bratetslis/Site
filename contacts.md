@@ -13,7 +13,7 @@ nav: contacts
 
 pochta@bratetslis.ru
 
-или заполнив форму: <!-- <a href="../zakaz/">Напишите нам</a> -->
+или заполнив форму: <!-- <a href="../zakaz/">Напишите нам</a> --> </p>
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
 <div style="width:500px; text-align:left; border:1px solid #CCCCCC; color:#003300; font:12px tahoma, verdana; background:#F5F5F5;">
 <div style="text-align:center; background:#708090; border:1px solid #F5F5F5; color:#ffffff; padding:5px 5px 5px 5px;">Напишите нам</div>
@@ -70,4 +70,4 @@ pochta@bratetslis.ru
 <div style="padding:5px 20px 15px 20px; text-align:center;">
 <input type="submit" value="Отправить" style="cursor:pointer; width:200px; height:35px; font:15px tahoma;" />
 </div>
-</div></form></center><!-- 10:54, 25.11.2011 --></p>
+</div></form></center><!-- 10:54, 25.11.2011 -->
