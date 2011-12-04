@@ -7,11 +7,11 @@ nav: contacts
 <p><center>
 Сделать заказ или задать интересующие вопросы вы можете позвонив по телефону:
 
-8-916-297-24-13 <br> 
+8-916-297-24-13 <br><br> 
 
 написав письмо на e-mail: <br>
 
-pochta@bratetslis.ru
+pochta@bratetslis.ru<br><br>
 
 или заполнив форму: </center></p>
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
