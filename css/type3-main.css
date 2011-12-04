@@ -37,10 +37,35 @@ img.download {vertical-align:middle;}
 .letter {
  font-size: 220%; /* Размер шрифта буквицы */
  float: left; /* Выравнивание по левому краю */
+ color: orange; /* Цвет буквицы */
+ padding-right: 3px; /* Отступ между буквицей и текстом */
+ line-height: 32px; /* Положение символа */
+}
+
+.letter1 {
+ font-size: 220%; /* Размер шрифта буквицы */
+ float: left; /* Выравнивание по левому краю */
  color: blue; /* Цвет буквицы */
  padding-right: 3px; /* Отступ между буквицей и текстом */
- line-height: 32px; /* Положение символа */ 
+ line-height: 32px; /* Положение символа */
 }
+
+.letter2 {
+ font-size: 220%; /* Размер шрифта буквицы */
+ float: left; /* Выравнивание по левому краю */
+ color: red; /* Цвет буквицы */
+ padding-right: 3px; /* Отступ между буквицей и текстом */
+ line-height: 32px; /* Положение символа */
+}
+
+.letter3 {
+ font-size: 220%; /* Размер шрифта буквицы */
+ float: left; /* Выравнивание по левому краю */
+ color: brown; /* Цвет буквицы */
+ padding-right: 3px; /* Отступ между буквицей и текстом */
+ line-height: 32px; /* Положение символа */
+}
+
 
 /* ----------container zentriert das layout-------------- */
 #container {
