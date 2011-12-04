@@ -60,7 +60,7 @@ lis@bratetslis.ru<br><br>
 <textarea name="text" style="width:358px; height:100px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;"> </textarea>
 </div>
 <div style="overflow:auto; width:100%;">
-<div style="float:left; padding:10px 0px 10px 20px;">Число на изображении<br />
+<div style="float:left; padding:10px 0px 10px 20px;">введите число на изображении (необходимо для защиты от спама)<br />
 <input name="captcha" type="text" style="width:220px; height:20px; background:#FFFFFF; border:1px solid #CCCCCC; color:#191970;" maxlength="5" />
 </div>
 <div style="float:right; padding:10px 20px 10px 0px;">
