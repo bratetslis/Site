@@ -14,9 +14,12 @@ nav: friends
 #text7 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 #text8 {HEIGHT: 80px; LEFT: 0px; POSITION: absolute; TOP: 50px;  hidden; WIDTH: 250px; Z-INDEX: 10} 
 </style>
+<<<<<<< HEAD
 <style type="text/css">
 
 </style>
+=======
+>>>>>>> 709b1c9f307dce5497aa8a06202f88378c073f90
 
 <p>Мои друзья - это веселые клоуны, сказочные герои, фокусники и другие устроители праздничных мероприятий. Они сделают ваше торжество не-по-вто-ри-мым! Все они имеют специальное образование и опыт работы в проведении любых праздничных мероприятий для взрослых и детей! Выбирайте на свой вкус и цвет!</p>
 <p><center>
