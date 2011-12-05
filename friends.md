@@ -19,13 +19,13 @@ nav: friends
 <p><center>
 <table>
 <tr>
-<td><a href=<!--"javascript:alert('Смотрите и другие подсказки по любому персонажу')"--> onmouseover="showhint('text1');" onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
-<td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></a></td>
-<td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td>
-<td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text4');" onmouseout="hidehint('text4');"><img src="../img/tim.jpg"></a></td></tr>
+<td><a href="javascript:alert('Смотрите подсказки по любому персонажу')" onmouseover="showhint('text1');" onmouseout="hidehint('text1');"><img src="../img/tim.jpg"></a></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/zvezdochka.jpg"></a></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text4');" onmouseout="hidehint('text4');"><img src="../img/tim.jpg"></a></td></tr>
 <tr><td> <b>Клоун Тим </b></td><td><b>Звездочка</b></td><td><b>Гном</b></td><td> <b>Клоун Тим</b> </td></tr>
 <tr>
-<td><a href="javascript:alert('Смотрите и другие подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
 <td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
 <tr><td> <strong>Клоун Тим </strong></td><td><strong>Звездочка</strong></td><td><strong>Гном</strong></td><td> <strong>Клоун Тим </strong></td></tr>
 <tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
@@ -35,12 +35,9 @@ nav: friends
 <p>Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)</p>
 
 <table cellspacing="0" id='text1' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 30%; TOP: 50px; WIDTH: 400px; display:none">
-<tr><td bgcolor="#FFFFE1"><font size="-1"> Клоун - универсальный персонаж. Клоун может провести праздник для детей и взрослых любого возраста. В его арсенале все: игры и затеи, эстафеты, аквагрим, несложные фокусы, моделирование фигурок из воздушных шаров, мини-шоу мыльных пузырей. <br>&nbsp&nbspСтоимость 2-х часовой игровой программы с Клоуном, в которую включены аквагрим средней степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей, составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и обратно.  </font>
-</td></tr></table>
-<table cellspacing="0" id='text2' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 35%; TOP: 50px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Меня зовут Звездочка!</b><br>
-<p><span class="letter">З</span>вездочка оставит у Вашего ребенка самые незабываемые и яркие впечатления. Конкурсы, игры, легкий аквагрим, веселые эстафеты - все это уже включено в нашу игровую интерактивную программу. Для каждого ребенка подарок - игрушка из шара для моделирования. Также Вы можете пригласить на детский праздник вместе с клоуном Тимом какого-либо еще другого персонажа. Мероприятие проходит активно, смешно и весело.</p>
-Веселятся все!</font>
+<tr><td bgcolor="#FFFFE1"><font size="-1"><span class="letter">К</span>лоун - универсальный персонаж. Клоун может провести праздник для детей и взрослых любого возраста. В его арсенале все: игры и затеи, эстафеты, аквагрим, несложные фокусы, моделирование фигурок из воздушных шаров, мини-шоу мыльных пузырей. <br><br>&nbsp&nbspСтоимость 2-х часовой игровой программы с Клоуном, в которую включены аквагрим средней степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей, составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и обратно.  </font></td></tr></table>
+<table cellspacing="0" id='text2' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 35%; TOP: 30px; WIDTH: 600px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"> <span class="letter">П</span>ираты - персонажи характерные. Даже самый милый пират может быть не принят детьми до 5-6 лет, поэтому лучший возраст аудитории для пирата - дети от 6 до 10 лет. Для старших школьников пиратов так же можно приглашать, но уже для проведения массовых праздников (классных, школьных, командных). Вместе с пиратами дети будут соревноваться в силе и ловкости, искать сокровища Флинта, оспаривать титул "Гроза морей и океанов" или веселиться в иной, разработанной специально для вашего торжества, праздничной программе.  <br><br>&nbsp&nbspСтоимость 2-х часовой игровой программы с пиратом, в которую включены аквагрим средней степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей, составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и обратно. Специально разработанная для вашего торжества праздничная программа оплачивается дополнительно (1000 рублей).</font>
 </td></tr></table>
 <table cellspacing="0" id='text3' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 40%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#ccffff"><font size="-1"><b>Привет. Я Гном!</b><br>
@@ -48,7 +45,7 @@ nav: friends
 Веселятся все!</font>
 </td></tr></table>
 
-<table cellspacing="0" id='text4' border="1" align="left" width="100%" о="5" style="HEIGHT: 80px; LEFT: 45%; TOP: 50px; WIDTH: 300px; display:none">
+<table cellspacing="0" id='text4' border="1" align="left" width="100%" cellpadding ="5" style="HEIGHT: 80px; LEFT: 45%; TOP: 50px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b><br></font>
 </td></tr></table>
 
@@ -81,4 +78,3 @@ nav: friends
 
 </font>
 </td></tr></table>
-
