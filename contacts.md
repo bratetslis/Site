@@ -5,14 +5,14 @@ nav: contacts
 ---
 <br><br>
 <p><center>
-Сделать заказ или задать интересующие вопросы вы можете позвонив по телефону:
+Сделать заказ или задать интересующие вопросы вы можете, позвонив по телефону:
 
 8-916-297-24-13 <br><br> 
 
 написав письмо на e-mail: <br>
 
 lis@bratetslis.ru<br><br>
-или заполнив форму: </center></p>
+или, заполнив форму: </center></p>
 <center><form action="http://masterform.info/mail.php" method="post"><input type="hidden" name="zagol_soob" value="" />
 <div style="width:500px; text-align:left; border:1px solid #CCCCCC; color:#003300; font:12px tahoma, verdana; background:#F5F5F5;">
 <div style="text-align:center; background:#708090; border:1px solid #F5F5F5; color:#ffffff; padding:5px 5px 5px 5px;"> </div>
