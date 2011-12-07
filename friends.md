@@ -23,7 +23,7 @@ nav: friends
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/pirat2.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/gnom.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text4');" onmouseout="hidehint('text4');"><img src="../img/tim.jpg"></a></td></tr>
-<tr><td> <b>Клоун Тим </b></td><td><b>Пират</b></td><td><b>Гном</b></td><td> <b>Клоун Тим</b> </td></tr>
+<tr><td> <b>Клоун</b></td><td><b>Пират</b></td><td><b>Ковбой</b></td><td> <b>Клоун Тим</b> </td></tr>
 <tr>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
 <td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
