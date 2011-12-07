@@ -23,11 +23,14 @@ nav: friends
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text2');" onmouseout="hidehint('text2');"><img src="../img/pirat2.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text3');" onmouseout="hidehint('text3');"><img src="../img/cowboy.jpg"></a></td>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text4');" onmouseout="hidehint('text4');"><img src="../img/indey.jpg"></a></td></tr>
-<tr><td><center> <b>Клоун</b></center> </td><td><center> <b>Пират</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
+<tr>
+<td><center> <b>Клоун</b></center> </td><td><center> <b>Пират</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
 <tr>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
 <td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
-<tr><td> <strong>Клоун Тим </strong></td><td><strong>Звездочка</strong></td><td><strong>Гном</strong></td><td> <strong>Клоун Тим </strong></td></tr>
+<tr>
+<td><center> <b>Дед Мороз <br>Снегурочка</b></center> </td><td><center> <b>Пират</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
+</tr>
 <tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
 <tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
 </table></center></p>
@@ -44,13 +47,13 @@ nav: friends
 </td></tr></table>
 
 <table cellspacing="0" id='text4' border="1" align="left" width="100%" cellpadding ="5" style="HEIGHT: 80px; LEFT: 45%; TOP: 50px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><font size="-1"><span class="letter">И</span>ндеец - персонаж загадочный. Боевой раскрас и вапаха (именно так называется головной убор индейца) - то, что делает его образ необычным и привлекательным. Лучшая аудитория для индейца - дети от 6 до 10 лет. Игровая программа, ведущим которой является аниматор-индеец, построена на особенностях культуры этой древней народности, что несомненно делает ее по особенному интересной и увлекательной.  Стоимость 2-х часовой игровой программы с индейцем, в которую включены аквагрим средней степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей, составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и обратно. 
+<tr><td bgcolor="#FFFFE1"><font size="-1"><span class="letter">И</span>ндеец - персонаж загадочный. Боевой раскрас и вапаха (именно так называется головной убор индейца) - то, что делает его образ необычным и привлекательным. Лучшая аудитория для индейца - дети от 6 до 10 лет. Игровая программа, ведущим которой является аниматор-индеец, построена на особенностях культуры этой древней народности, что несомненно делает ее по особенному интересной и увлекательной.  <br><br>&nbsp&nbsp Стоимость 2-х часовой игровой программы с индейцем, в которую включены аквагрим средней степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей, составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и обратно. 
 </font>
 </td></tr></table>
 
 
 <table cellspacing="0" id='text5' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 30%; TOP: 250px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"></td><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Тим!</b></font><br><img src="../img/fire.gif"></td>
+<tr><td bgcolor="#FFFFE1"><img src="../img/tim.jpg"></td><td bgcolor="#FFFFE1"><font size="-1">Сложно представить себе всеми любимые новогодние праздники без Деда Мороза и Снегурочки - так прочно вошли они в нашу жизнь. Не нужно этого делать!!! Кто как не они в эти сказочные новогодние дни и вечера способны подарить людям веру в чудо, согреть теплом своих сердец и сделать окружающий мир чуточку добрее? <br><br>&nbsp&nbsp Оригинальные номера наших Деда Мороза и Снегурочки сделают их визит в ваш дом отличным от рядового праздничного поздравления! А может быть у вас возникла необходимость пригласить Деда Мороза и Снегурочку в течении года? Например, летом? Тогда немедленно звоните нам!</font><br><img src="../img/fire.gif"></td>
 </tr></table>
 
 
