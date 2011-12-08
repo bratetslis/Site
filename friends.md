@@ -32,7 +32,7 @@ nav: friends
 <td><center> <b>Дед Мороз <br>Снегурочка</b></center> </td><td><center> <b>Пират</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
 </tr>
 <tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
-<tr><td> Клоун Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
+<tr><td> Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
 </table></center></p>
 
 <p>Если вы не видите интересующего вас персонажа на этой страничке - звоните - наверняка он УЖЕ в кругу моих друзей :)</p>
