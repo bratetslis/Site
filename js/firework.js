@@ -33,8 +33,13 @@ else
 }
 
 var FIRE_Top = 10;
+<<<<<<< HEAD
+var FIRE_Bot = FIRE_Vindue_Height - 550; // Начало фейерверка
+var FIRE_Mid = FIRE_Vindue_Width/2; // Точка начала фейерверка
+=======
 var FIRE_Bot = FIRE_Vindue_Height - 350; // Откуда начинать феерверк
 var FIRE_Mid = FIRE_Vindue_Width/2;
+>>>>>>> 709b1c9f307dce5497aa8a06202f88378c073f90
 
 FIRE_PosLeft = new Array();
 FIRE_PosTop = new Array();
