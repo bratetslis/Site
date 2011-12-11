@@ -27,9 +27,12 @@ nav: friends
 <td><center> <b>Клоун</b></center> </td><td><center> <b>Пират</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
 <tr>
 <td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text5');" onmouseout="hidehint('text5');"><img src="../img/tim.jpg"></a></td>
-<td> <a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text6');" onmouseout="hidehint('text6');"><img src="../img/indey.jpg"></a></</td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr> 
+<td> <a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text6');" onmouseout="hidehint('text6');"> <img src="../img/indey.jpg"></a></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text7');" onmouseout="hidehint('text7');"> <img src="../img/gnom.jpg"></td>
+<td><a href="javascript:alert('Смотрите  подсказки по любому персонажу')" onmouseover="showhint('text8');" onmouseout="hidehint('text8');"> <img src="../img/tim.jpg">
+</td></tr> 
 <tr>
-<td><center> <b>Дед Мороз <br>Снегурочка</b></center> </td><td><center> <b>Твистинг</b></center> </td><td><center> <b>Ковбой</b></center> </td><td> <center> <b>Индеец</b> </center> </td></tr>
+<td><center> <b>Дед Мороз <br>Снегурочка</b></center> </td><td><center> <b>Твистинг</b></center> </td><td><center> <b>Котофей</b></center> </td><td> <center> <b>Аквагрим</b> </center> </td></tr>
 </tr>
 <tr><td><img src="../img/tim.jpg"></td><td><img src="../img/zvezdochka.jpg"></td><td><img src="../img/gnom.jpg"></td><td><img src="../img/tim.jpg"></td></tr>
 <tr><td> Тим </td><td>Звездочка</td><td>Гном</td><td> Клоун Тим </td></tr>
@@ -62,18 +65,54 @@ nav: friends
  </font>
 </td></tr></table>
 
+
+
 <table cellspacing="0" id='text7' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
-<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+<tr><td bgcolor="#FFFFE1"><font size="-1"> Котофей - идеальный персонаж для проведения праздничной программы в кругу детей  дошкольного и младшего школьного возраста. Игровая программа Котофея - унивесральна, ее  основная задача - чтобы детям было интересно и весело.
+
+Стоимость 2-х часовой игровой программы с Котофеем в которую включены аквагрим средней  степени сложности, моделирование фигурок из воздушных шаров и мини-шоу мыльных пузырей,  составляет 3500 рублей в пределах МКАД. В исключительных случаях (а в случае выезда за город  - всегда) к стоимости заказа добавляется стоимость проезда до места проведения праздника и  обратно.  
 
 
 
- </font>
+
+</font>
 </td></tr></table>
 
+
 <table cellspacing="0" id='text8' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"> Аквагрим - это косметические краски на водной основе. Техника работы с Аквагримом идентична  акварели: он наносится смоченной в воде кистью. Гримирование Аквагримом  прекрасная  возможность занять детей на детском празднике, поскольку это интересно не только тем, кого  гримируют, но и тем, кто наблюдает, как из обычных мазков и завитушек появляются удивительные  образы персонажей и героев сказок. Рисунок Аквагримом безусловно добавит положительных  эмоций Вам и Вашим детям. Аквагрим безопасен для кожи и здоровья ребенка, не оставляет  следов на одежде, смывается водой и мылом.
+
+
+
+
+</font>
+</td></tr></table>
+
+<table cellspacing="0" id='text9' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
 <tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
 
 
 
 </font>
 </td></tr></table>
+
+
+<table cellspacing="0" id='text10' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+</font>
+</td></tr></table>
+
+
+<table cellspacing="0" id='text11' border="1" align="left" width="100%" cellpadding="5" style="HEIGHT: 80px; LEFT: 150px; TOP: 150px; WIDTH: 300px; display:none">
+<tr><td bgcolor="#FFFFE1"><font size="-1"><b>Привет. Я Гном!</b><br>
+
+
+
+</font>
+</td></tr></table>
+
+
+
